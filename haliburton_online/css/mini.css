@@ -1,0 +1,105 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@media screen and (min-width: 100px) and (max-width: 407px) { 
+	ul {
+		font-size:1vw;
+		width:99%;
+	}
+	li {
+		float:left;
+		width:12% !important;
+		padding:1%;
+		padding-top:12px;
+		text-align:center;
+		/*background-color:#F0F;*/
+		margin-left:0px;
+		margin-right:0px;
+	}
+	li a {
+		padding:0%;
+	}
+	.menu{
+		width:100%;
+		padding:0px;
+	}
+	.white{
+		top:9vw !important;
+	}
+}
+
+
+@media only screen and (max-width: 667px ) {
+	ul {
+		font-size:1.7vw;
+		font-family: 'Lato', sans-serif;
+		width:99%;
+		margin:auto;
+		/*background:#039;*/
+		padding-left:0px;
+	}
+	li {
+		float:left;
+		width:13.1%;
+		padding:1%;
+		padding-top:12px;
+		text-align:center;
+		/*background-color:#F0F;*/
+		margin-left:0px;
+		margin-right:0px;
+	}
+	li a {
+		padding:0%;
+	}
+	.menu{
+		width:100%;
+		padding:0px;
+	}
+	.white{
+		top:9vw !important;
+	}
+}
+@media only screen and (max-width: 900px ) {
+	
+	.menu{
+		width:100%;
+		padding:0px;
+	}
+	
+	.top{
+		height:140px;
+	}
+	
+	.logo{
+		position:inherit;
+		float:none;
+		margin:auto;
+		height:45px;
+	}
+	
+	li {
+		float:right;
+		/*width:80px;*/
+		padding:4px;
+		padding-top:12px;
+		margin-left:3px;
+		margin-right:3px;
+		text-align:center;
+		/*background-color:#F0F;*/
+	}
+}
+@media only screen and (min-width: 900px ) {
+	
+	.menu{
+		width:90%;
+		padding:0px;
+	}
+	
+	.logo{
+		position:absolute;
+		float:none;
+		height:45px;
+	}
+	
+	
+}

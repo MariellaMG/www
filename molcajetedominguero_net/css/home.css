@@ -1,0 +1,438 @@
+@charset "UTF-8";
+/* CSS Document */
+html{
+	background-color:#72B99F;
+	/*background-color:#233542;*/
+}
+body{
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	font-size:100%;
+	overflow-x: hidden;
+}
+.header{
+	width:100%;
+	background-color:#78B19B;
+	background-image:url(/design2_partes/1/dom_d1_1.jpg);
+	overflow:hidden;
+	background-size: 100% auto;
+	background-position:center;
+}
+.skyline{
+	width:100%;
+	height:0px;
+	background-color:#000;
+	background-image:url(/noche/skyline-noche.jpg);
+	background-position:center top;
+	background-repeat:repeat-x;
+}
+.header1{
+	width:100%;
+	background-image:url(/design2_partes/1/dom_d1_1_b.png);
+	overflow:hidden;
+	background-size:auto 100%;
+	background-position:bottom;
+	background-repeat:repeat-x;
+}
+.header2{
+	width:100%;
+	background-image:url(../design2_partes/1/dom_d1_1_c.png);
+	overflow:hidden;
+	background-position:bottom;
+	background-repeat:no-repeat;
+}
+.aboutus{
+	border-radius: 50%;
+    behavior: url(PIE.htc); /* remove if you don't care about IE8 */
+	width:250px;
+	height:250px;
+	border:0.9vw solid #1B3459;
+	background-color:#ffce00;
+	color:#FFF;
+	text-align:center;
+	font-family: 'Bowlby One SC', cursive;
+	font-size: 2.0vw;
+	line-height:2.8vw;
+	cursor:pointer;
+	vertical-align:middle;
+	position:absolute;
+	top:-17px;
+	left:38px;
+}
+.aboutus:hover {
+	border:0.9vw solid #FFF;
+	background:#B1436D url(/images/rosa.png);
+}
+.aboutus div{
+	margin-top:95px;
+}
+.aboutus a{
+	color:#FFF;
+	text-decoration:none;
+}
+.aboutus a:hover{
+	color:#1B3459;
+	text-decoration:none;
+}
+
+.img_icon{
+}
+
+.aboutus:hover .img_icon{
+	width:85%;
+}
+
+.molcajetenig:hover .img_icon{
+	width:85%;
+}
+.contactus:hover .img_icon{
+	width:85%;
+}
+
+.contactus{
+	border-radius: 50%;
+    behavior: url(PIE.htc); /* remove if you don't care about IE8 */
+	width:250px;
+	height:250px;
+	border:0.9vw solid #1B3459;
+	background-color:#ffce00;
+	color:#FFF;
+	text-align:center;
+	font-family: 'Bowlby One SC', cursive;
+	font-size: 2.6vw;
+	line-height:2.8vw;
+	cursor:pointer;
+	/*vertical-align:middle;*/
+	position:absolute;
+	top:-17px;
+	left:38px;
+	
+}
+.contactus:hover {
+	border:0.9vw solid #FFF;
+	background:#B1436D url(/images/rosa.png);
+}
+.contactus div{
+	/*margin-top:105px;*/
+	/*margin-bottom:-10vw;*/
+	/*padding-top:-10vw;*/
+}
+.contactus a{
+	color:#FFF;
+	text-decoration:none;
+}
+.contactus a:hover{
+	color:#1B3459;
+	text-decoration:none;
+}
+
+
+
+.sanfrancisco{
+	border-radius: 50%;
+    behavior: url(PIE.htc); /* remove if you don't care about IE8 */
+	width:250px;
+	height:250px;
+	border:0.9vw solid #262262;
+	background-color:#ffce00;
+	color:#f22b8e;
+	text-align:center;
+	font-family: 'Bowlby One SC', cursive;
+	font-size: 1.6vw;
+	vertical-align:middle;
+	cursor:pointer;
+	line-height:2vw;
+	position:absolute;
+	top:-17px;
+	left:38px;
+}
+.sanfrancisco:hover {
+	border:0.9vw solid #FFF;
+	background-color:#B1436D;
+	font-size: 1.7vw;
+	color:#FFF;
+}
+.sanfrancisco:hover a {
+	color:#FFF;
+	font-size: 1.7vw;
+}
+.sanfrancisco a{
+	color:#f22b8e;
+	text-decoration:none;
+}
+.sanfrancisco a:hover{
+	color:#fff;
+}
+
+
+
+
+
+.molcajetenig{
+	border-radius: 50%;
+    behavior: url(PIE.htc); /* remove if you don't care about IE8 */
+	width:250px;
+	height:250px;
+	border:0.9vw solid #1B3459;
+	background-color:#ffce00;
+	color:#f22b8e;
+	text-align:center;
+	font-family: 'Bowlby One SC', cursive;
+	font-size:2.2vw;
+	vertical-align:middle;
+	cursor:pointer;
+	line-height:2.2vw;
+	position:absolute;
+	top:-17px;
+	left:38px;
+	z-index:10;
+}
+.molcajetenig:hover {
+	border:0.9vw solid #FFF;
+	background:#000;
+	color:#FFF;
+}
+.molcajetenig:hover div a{
+	color:#FFF;
+}
+.molcajetenig div{
+	margin-top:105px;
+}
+.molcajetenig div img{
+	margin:auto;
+}
+.molcajetenig div a{
+	text-decoration:none;
+	color:#f22b8e;
+}
+.molcajetenig div a:hover{
+	color:#fff;
+}
+.logo{
+	width:30%;
+	position:absolute;
+	top:0px;
+	left:0px;
+	z-index:20;
+	overflow:hidden;
+}
+
+.productos{
+	width:100%;
+	min-height:500px;
+	height:auto;
+	padding-bottom:30px;
+	background:url(../images/fondo_amarillo.jpg);
+	overflow:hidden;
+}
+.producto{
+	width:280px;
+	height:280px;
+	float:left;
+	margin:31px;
+	border:solid 5px #FFFFFF;
+	overflow:hidden;
+	background-color:#CCC;
+	background-position:center;
+	background-size:105% auto;
+	box-shadow: 5px 5px 5px #333;
+}
+.producto:hover{
+	border:solid 5px #1B3459;
+	box-shadow: 10px 10px 5px #333;
+}
+.producto_all{
+	width:100%;
+	height:100%;
+	padding-top:240px;
+}
+.producto_titulo{
+	background:#1B3459;
+	width:100%;
+	height:40px;
+	overflow:hidden;
+	padding:3px;
+	display:none;
+	text-align:center;
+	padding-top:10px;
+}
+.producto_titulo_a{
+	color:#FFF;
+	text-decoration:none;
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+.join{
+	width:100%;
+	background-image:url(../images/verde_fondo.jpg);
+	padding-bottom:40px;
+}
+
+
+.title_join {
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding-top: 4%;
+    font-size: 45px;
+    font-weight: bold;
+}
+.subt_join {
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    font-size: 23px;
+	width:550px;
+	margin:auto;
+	margin-top:55px;
+}
+.join_circulos{
+	width:570px;
+	height:320px;
+	margin:auto;
+	margin-top:30px;
+}
+.join_circulo {
+    float: left;
+    padding-top: 8%;
+    text-align: center;
+    background-color: #ffce00;
+    border: 8px solid #FFF;
+    width: 230px;
+    height: 180px;
+    border-radius: 50%;
+	line-height:50px;
+	cursor:pointer;
+}
+.join_circulo:hover{
+	border: 8px solid #1B3459;
+	box-shadow: 5px 5px 5px #333;
+}
+.join_circulo:hover a{
+	color: #FFF;
+    font-size: 59px;
+}
+.join_circulo a {
+    text-decoration: none;
+    color: #FFF;
+    font-size: 55px;
+    font-family: 'Passion One', cursive;
+    font-weight: bold;
+}
+
+
+.vendors{
+	width:100%;
+	min-height:800px;
+	background-image:url(/molcajetedomborrador3/md6fondo.jpg);
+}
+.vendors_int{
+	max-width:1200px;
+	margin:auto;
+	padding-bottom:50px;
+}
+.vendor1{
+	width:550px;
+	height:250px;
+	margin:20px;
+	float:left;
+}
+.vendor2{
+	width:550px;
+	height:250px;
+	margin:20px;
+	float:left;
+}
+.vendor_foto1{
+	width:250px;
+	height:250px;
+	float:left;
+	border-radius:50%;
+	border:solid 6px #FFFFFF;
+	background-color:#FFF;
+	background-size:110% auto;
+	background-position:center;
+}
+.vendor_foto1:hover{
+	border:solid 6px #000;
+	background-size:115% auto;
+}
+.vendor_texto{
+	width:250px;
+	height:200px;
+	margin-left:10px;
+	float:left;
+	overflow:hidden;
+}
+.vendor_texto h2{
+	color: #e03e95;
+	font-family: 'Passion One', cursive;
+	font-size: 40px;
+	margin:2px;
+	margin-top:20px;
+}
+.vendor_texto p{
+	font-size: 30px;
+	font-family: 'Passion One', cursive;
+	color: #636363;
+	margin-top:0px;
+}
+
+
+.mes{
+	width:100%;
+	background-image:url(../images/fondo_azul_june.jpg);
+	background-size:100% auto;
+	background-position-y:-0.5vw;
+}
+
+.mes_int{
+	/*margin-left:2vw;*/
+}
+
+.mes_txt{
+	width:25%;
+	float:left;
+	margin:auto;
+	background-color:#FFF;
+	background-size:100% auto;
+	background-position:center;
+	cursor:pointer;
+	
+  
+	  
+	  -webkit-text-fill-color: transparent;
+	  -webkit-background-clip: text;
+	  
+	  
+	  
+	  font-size: 40vw;
+	  font-weight: bold;
+	  text-align: center;
+	  font-family: 'Lilita One', sans-serif;
+	  
+}
+
+.mesanio{
+	position:absolute;
+	width:20%;
+	color:#FFF;
+	font-size:4vw;
+	padding-left:80%;
+	padding-top:4%;
+	font-family: 'Passion One', cursive;
+}
+
+.footer_a{
+	color:#FFF; 
+	text-decoration:none;
+}
+.footer_a:hover{
+	text-decoration:underline;
+}
+
+.clr{
+	clear:both;
+}

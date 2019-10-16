@@ -1,0 +1,354 @@
+@charset "UTF-8";
+/* CSS Document */
+.sf_header{
+	width:100%;
+	background-color:#78B19B;
+	background-image:url(/images/fondo_azul.jpg);
+	overflow:hidden;
+	background-size: 100% auto;
+	background-position:center;
+	padding-bottom:10vw;
+}
+.sf_header1{
+	width:100%;
+	/*background-image:url(/noche/san_fran.png);*/
+	overflow:hidden;
+	background-size:auto 100%;
+	background-position:bottom;
+	background-repeat:repeat-x;
+}
+.sf_header2{
+	width:100%;
+	/*background-image:url(/design2_partes/1/dom_d1_1_c.png);*/
+	overflow:hidden;
+	background-position:bottom;
+	background-repeat:no-repeat;
+}
+
+.sf_header_sub{
+	width:100%;
+	height:2vw;
+	font-family: 'Bowlby One SC', cursive;
+	font-size:1.5vw;
+	color:#FFF;
+	/*-webkit-text-stroke-width: 0.05vw;
+   -webkit-text-stroke-color: #FFF;*/
+   text-align:center;
+   background: rgba(0, 0, 0, 0.5);
+   padding-top:4px;
+   padding-bottom:4px;
+}
+
+.sf_header_tit{
+	width:100%;
+	font-family: 'Bowlby One SC', cursive;
+	height:5.2vw;
+	font-size:5vw;
+	color:#fff;
+	/*-webkit-text-stroke-width: 0.2vw;
+   -webkit-text-stroke-color: #000;*/
+   text-align:center;
+   margin:0px;
+   padding:0px;
+}
+
+.sf_header_tit_mini{
+	width:100%;
+	font-family: 'Bowlby One SC', cursive;
+	font-size:3vw;
+	color:#fff;
+	/*-webkit-text-stroke-width: 0.2vw;
+   -webkit-text-stroke-color: #000;*/
+   text-align:center;
+   margin:0px;
+   padding:0px;
+   margin-top:-20px;
+}
+
+
+.sf_imgs_tres{
+	width:90%;
+	margin:auto;
+}
+.sf_imgs_dos{
+	width:60%;
+	margin:auto;
+}
+.sf_img3{
+	width:24.5vw;
+	height:19vw;
+	border:solid #FFF 0.5vw;
+	float:left;
+	overflow:hidden;
+	margin:2vw;
+	box-shadow: 5px 5px 5px #333;
+}
+.sf_text{
+	width:50%;
+	margin:auto;
+	color:#FFF;
+	text-align:center;
+	font-size:18px;
+	font-family:Verdana, Geneva, sans-serif;
+	margin-top:2vw;
+}
+.sf_pre{
+	font-size:18px;
+	font-family:Verdana, Geneva, sans-serif;
+	color:#000;
+	/*-webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: #FFF;*/
+   background: rgba(255, 255, 255, 0.5);
+   padding:4px;
+}
+.sf_btn{
+	border:solid 4px #191342;
+	box-shadow: 5px 5px 5px #333;
+	border-radius: 30px;
+	width:150px;
+	height:35px;
+	margin:auto;
+	font-family: 'Roboto', sans-serif;
+	font-size:25px;
+	text-align:center;
+	padding-top:5px;
+	
+	background-color:#ffce00;
+	color:#f22b8e;
+}
+.sf_btn:hover{
+	background-color:#CCC;
+}
+.sf_btn a{
+	color:#f22b8e;
+	text-decoration:none;
+}
+
+
+
+
+
+.sf_location{
+	width:300px;
+	height:140px;
+	background:#FFF;
+	margin-left:10px;
+	box-shadow: 2px 2px 2px #333;
+	font-family:Verdana, Geneva, sans-serif;
+}
+.sf_mapa_tit{
+	width:100%;
+	height:20px;
+	background:#f22b8e;
+	color:#FFF;
+	font-size:13px;
+	text-align:center;
+}
+.sf_mapa{
+	width:150px;
+	height:120px;
+	float:left;
+	background:#999;
+}
+.sf_mapa_txt{
+	width:150px;
+	height:120px;
+	float:left;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:11px;
+}
+.sf_mapa_txt_int{
+	padding:5px;
+}
+
+
+.shop_linea{
+	width:100%;
+	height:260px;
+	background-color:#FFF;
+	background-image:url(../images/fondo_grisclaro170.jpg);
+	background-repeat:no-repeat;
+	overflow:hidden;
+}
+.shop_linea_int{
+	width:2900px;
+	height:260px;
+}
+
+.shop_elemento{
+	width:150px;
+	height:260px;
+	float:left;
+	margin-right:30px;
+}
+.shop_elemento:hover{
+	background: rgba(255, 255, 255, 0.8);
+}
+
+.shop_precio{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:17px;
+	text-align:center;
+	padding-top:0px;
+	margin-top:-2px;
+	font-weight:bold;
+}
+.shop_fecha{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	text-align:center;
+}
+.shop_boton{
+	border:solid 4px #191342;
+	box-shadow: 3px 3px 3px #333;
+	border-radius: 30px;
+	width:60px;
+	height:15px;
+	margin:auto;
+	font-family: 'Roboto', sans-serif;
+	font-size:12px;
+	text-align:center;
+	padding-top:0px;
+	
+	background-color:#ffce00;
+	color:#f22b8e;
+	cursor:pointer;
+}
+.shop_boton:hover{
+	color:#ffce00;
+	background-color:#f22b8e;
+}
+
+
+.tic_div{
+	width:600px;
+	margin:auto;
+}
+.tic_logo{
+	width:50%;
+	float:left;
+}
+.tic_logo_sub{
+	font-family: 'Roboto', sans-serif;
+	font-size:19px;
+	text-align:center;
+	color:#FFF;
+	/*margin-top:-10px;*/
+}
+.tic_txt{
+	width:50%;
+	float:left;
+}
+.tic_txt h1{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:20px;
+	color:#FFF
+}
+.tic_txt h2{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:15px;
+	color:#FFF;
+	margin-top:0px;
+	margin-bottom:0px;
+	padding:0px;
+}
+.tic_txt h3{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:15px;
+	color:#FFF
+}
+.tic_detalle{
+	background: rgba(0, 0, 0, 0.5);
+	padding:10px;
+	border-radius:20px;
+	font-family:Verdana, Geneva, sans-serif;
+	color:#FFF;
+}
+.tic_cart{
+	margin-left:0px; 
+	background: rgba(0, 0, 0, 0.3);
+	border-radius:10px;
+	padding:10px;
+	width:55px;
+	height:21px;
+}
+.tic_terminos{
+	background: rgba(0, 0, 0, 0.5);
+	padding:15px;
+	border-radius:10px;
+	color:#FFF;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	margin-top:30px;
+}
+
+
+
+
+.tic_boton{
+	border:solid 4px #191342;
+	box-shadow: 3px 3px 3px #333;
+	border-radius: 30px;
+	width:120px;
+	height:35px;
+	margin:auto;
+	font-family: 'Roboto', sans-serif;
+	font-size:19px;
+	text-align:center;
+	padding-top:0px;
+	
+	background-color:#ffce00;
+	color:#f22b8e;
+	cursor:pointer;
+	
+	float:left;
+	margin:8px;
+	padding-top:10px;
+}
+.tic_boton a{
+	color:#f22b8e;
+	text-decoration:none;
+}
+.tic_boton a:hover{
+	color:#f22b8e;
+	text-decoration:underline;
+}
+
+
+.tic_boton_a{
+	border:solid 4px #191342;
+	box-shadow: 3px 3px 3px #333;
+	border-radius: 30px;
+	width:120px;
+	height:35px;
+	margin:auto;
+	font-family: 'Roboto', sans-serif;
+	font-size:19px;
+	text-align:center;
+	padding-top:0px;
+	
+	background-color:#fff;
+	color:#f22b8e;
+	cursor:pointer;
+	
+	float:left;
+	margin:8px;
+	
+	padding-top:10px;
+}
+.tic_boton_a a{
+	color:#f22b8e;
+	text-decoration:none;
+}
+.tic_boton_a a:hover{
+	color:#f22b8e;
+	text-decoration:underline;
+}
+
+#terms{
+	width:25px;
+	height:25px;
+	border:solid 1px #000000;
+	background-color:#FFF;
+	margin:0px;
+}

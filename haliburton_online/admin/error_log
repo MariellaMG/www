@@ -1,0 +1,1033 @@
+[06-Jun-2018 19:28:48 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 19:28:48 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 19:28:48 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[06-Jun-2018 19:28:48 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[06-Jun-2018 19:28:48 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[06-Jun-2018 19:28:48 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[06-Jun-2018 19:28:48 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[06-Jun-2018 19:28:48 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[06-Jun-2018 19:28:48 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[06-Jun-2018 19:28:48 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[06-Jun-2018 19:28:48 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[06-Jun-2018 19:28:48 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[06-Jun-2018 19:28:48 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[06-Jun-2018 19:28:48 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[06-Jun-2018 19:28:48 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[06-Jun-2018 19:28:48 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[06-Jun-2018 19:28:48 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[06-Jun-2018 19:28:48 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[06-Jun-2018 19:28:48 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[06-Jun-2018 19:38:59 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 19:38:59 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 19:38:59 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[06-Jun-2018 19:38:59 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[06-Jun-2018 19:38:59 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[06-Jun-2018 19:38:59 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[06-Jun-2018 19:38:59 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[06-Jun-2018 19:38:59 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[06-Jun-2018 19:38:59 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[06-Jun-2018 19:38:59 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[06-Jun-2018 19:38:59 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[06-Jun-2018 19:38:59 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[06-Jun-2018 19:38:59 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[06-Jun-2018 19:38:59 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[06-Jun-2018 19:38:59 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[06-Jun-2018 19:38:59 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[06-Jun-2018 19:38:59 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[06-Jun-2018 19:38:59 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[06-Jun-2018 19:38:59 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[06-Jun-2018 19:39:06 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 19:39:06 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 19:39:06 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[06-Jun-2018 19:39:06 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entradas.php on line 166
+[06-Jun-2018 19:39:06 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entradas.php on line 167
+[06-Jun-2018 19:39:08 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 19:39:08 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 19:39:08 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[06-Jun-2018 19:39:08 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/categorias.php on line 168
+[06-Jun-2018 19:39:08 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/categorias.php on line 169
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  move_uploaded_file(../uploaded/1528333119_hd.png): failed to open stream: No such file or directory in /home/haliburton/public_html/admin/upload_fotos.php on line 23
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpWK53Ro' to '../uploaded/1528333119_hd.png' in /home/haliburton/public_html/admin/upload_fotos.php on line 23
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  imagecreatefrompng(../uploaded/1528333119_hd.png): failed to open stream: No such file or directory in /home/haliburton/public_html/admin/upload_fotos.php on line 40
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  getimagesize(../uploaded/1528333119_hd.png): failed to open stream: No such file or directory in /home/haliburton/public_html/admin/upload_fotos.php on line 57
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  Division by zero in /home/haliburton/public_html/admin/upload_fotos.php on line 62
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/haliburton/public_html/admin/upload_fotos.php on line 64
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  Division by zero in /home/haliburton/public_html/admin/upload_fotos.php on line 68
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/haliburton/public_html/admin/upload_fotos.php on line 69
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  Division by zero in /home/haliburton/public_html/admin/upload_fotos.php on line 73
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/haliburton/public_html/admin/upload_fotos.php on line 74
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  Division by zero in /home/haliburton/public_html/admin/upload_fotos.php on line 78
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/haliburton/public_html/admin/upload_fotos.php on line 79
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  Division by zero in /home/haliburton/public_html/admin/upload_fotos.php on line 83
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/haliburton/public_html/admin/upload_fotos.php on line 84
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  Division by zero in /home/haliburton/public_html/admin/upload_fotos.php on line 88
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/haliburton/public_html/admin/upload_fotos.php on line 89
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 94
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 96
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 98
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 100
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 102
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 104
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 110
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 113
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 115
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 117
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 119
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 121
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 127
+[06-Jun-2018 19:58:47 America/Chicago] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 128
+[06-Jun-2018 20:17:43 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:17:43 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:17:43 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[06-Jun-2018 20:17:43 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entrada_agregar.php on line 522
+[06-Jun-2018 20:17:43 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entrada_agregar.php on line 523
+[06-Jun-2018 20:17:47 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:17:47 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:17:47 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[06-Jun-2018 20:17:47 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[06-Jun-2018 20:17:47 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[06-Jun-2018 20:17:47 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[06-Jun-2018 20:17:47 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[06-Jun-2018 20:17:47 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[06-Jun-2018 20:17:47 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[06-Jun-2018 20:17:47 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[06-Jun-2018 20:17:47 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[06-Jun-2018 20:17:47 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[06-Jun-2018 20:17:47 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[06-Jun-2018 20:17:47 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[06-Jun-2018 20:17:47 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[06-Jun-2018 20:17:47 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[06-Jun-2018 20:17:47 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[06-Jun-2018 20:17:47 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[06-Jun-2018 20:17:47 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[06-Jun-2018 20:17:54 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:17:54 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:17:54 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[06-Jun-2018 20:17:54 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entrada_agregar.php on line 522
+[06-Jun-2018 20:17:54 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entrada_agregar.php on line 523
+[06-Jun-2018 20:18:46 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:18:46 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:18:46 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[06-Jun-2018 20:18:46 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entrada_agregar.php on line 522
+[06-Jun-2018 20:18:46 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entrada_agregar.php on line 523
+[06-Jun-2018 20:21:37 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:21:37 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:21:37 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[06-Jun-2018 20:21:37 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entrada_agregar.php on line 522
+[06-Jun-2018 20:21:37 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entrada_agregar.php on line 523
+[06-Jun-2018 20:22:01 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:22:01 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:22:01 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[06-Jun-2018 20:22:01 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entradas.php on line 166
+[06-Jun-2018 20:22:01 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entradas.php on line 167
+[06-Jun-2018 20:22:04 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:22:04 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:22:04 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[06-Jun-2018 20:22:04 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entradas.php on line 166
+[06-Jun-2018 20:22:04 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entradas.php on line 167
+[06-Jun-2018 20:23:01 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:23:01 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:23:01 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[06-Jun-2018 20:23:01 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entradas.php on line 166
+[06-Jun-2018 20:23:01 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entradas.php on line 167
+[06-Jun-2018 20:24:39 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:24:39 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:24:39 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[06-Jun-2018 20:24:39 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entradas.php on line 166
+[06-Jun-2018 20:24:39 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entradas.php on line 167
+[06-Jun-2018 20:24:40 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:24:40 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:24:40 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[06-Jun-2018 20:24:40 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entrada_agregar.php on line 522
+[06-Jun-2018 20:24:40 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entrada_agregar.php on line 523
+[06-Jun-2018 20:27:32 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:27:32 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:27:32 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[06-Jun-2018 20:27:32 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entrada_agregar.php on line 523
+[06-Jun-2018 20:27:32 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entrada_agregar.php on line 524
+[06-Jun-2018 20:28:46 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:28:46 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:28:46 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[06-Jun-2018 20:28:46 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entrada_agregar.php on line 523
+[06-Jun-2018 20:28:46 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entrada_agregar.php on line 524
+[06-Jun-2018 20:35:01 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:35:01 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:35:01 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[06-Jun-2018 20:35:01 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entrada_agregar.php on line 524
+[06-Jun-2018 20:35:01 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entrada_agregar.php on line 525
+[06-Jun-2018 20:35:12 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:35:12 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:35:12 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[06-Jun-2018 20:35:12 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entrada_agregar.php on line 524
+[06-Jun-2018 20:35:12 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entrada_agregar.php on line 525
+[06-Jun-2018 20:35:29 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:35:29 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:35:29 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[06-Jun-2018 20:35:29 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entrada_agregar.php on line 525
+[06-Jun-2018 20:35:29 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entrada_agregar.php on line 526
+[06-Jun-2018 20:36:50 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, object given in /home/haliburton/public_html/admin/entrada_agregar.php on line 526
+[06-Jun-2018 20:48:33 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:48:33 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:48:33 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[06-Jun-2018 20:48:33 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entradas.php on line 166
+[06-Jun-2018 20:48:33 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entradas.php on line 167
+[06-Jun-2018 20:58:52 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:58:52 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 20:58:52 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[06-Jun-2018 20:58:52 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[06-Jun-2018 20:58:52 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[06-Jun-2018 20:58:52 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[06-Jun-2018 20:58:52 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[06-Jun-2018 20:58:52 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[06-Jun-2018 20:58:52 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[06-Jun-2018 20:58:52 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[06-Jun-2018 20:58:52 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[06-Jun-2018 20:58:52 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[06-Jun-2018 20:58:52 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[06-Jun-2018 20:58:52 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[06-Jun-2018 20:58:52 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[06-Jun-2018 20:58:52 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[06-Jun-2018 20:58:52 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[06-Jun-2018 20:58:52 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[06-Jun-2018 20:58:52 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[06-Jun-2018 21:00:18 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/haliburton/public_html/admin/entrada_agregar_form.php on line 53
+[06-Jun-2018 21:07:51 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 21:07:51 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[06-Jun-2018 21:07:51 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[06-Jun-2018 21:07:51 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entradas.php on line 166
+[06-Jun-2018 21:07:51 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entradas.php on line 167
+[09-Jun-2018 19:14:03 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[09-Jun-2018 19:14:03 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[09-Jun-2018 19:14:03 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[09-Jun-2018 19:14:03 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[09-Jun-2018 19:14:03 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[09-Jun-2018 19:14:03 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[09-Jun-2018 19:14:03 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[09-Jun-2018 19:14:03 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[09-Jun-2018 19:14:03 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[09-Jun-2018 19:14:03 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[09-Jun-2018 19:14:03 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[09-Jun-2018 19:14:03 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[09-Jun-2018 19:14:03 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[09-Jun-2018 19:14:03 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[09-Jun-2018 19:14:03 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[09-Jun-2018 19:14:03 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[09-Jun-2018 19:14:03 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[09-Jun-2018 19:14:03 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[09-Jun-2018 19:14:03 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[09-Jun-2018 19:14:20 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[09-Jun-2018 19:14:20 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[09-Jun-2018 19:14:20 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[09-Jun-2018 19:14:20 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entradas.php on line 166
+[09-Jun-2018 19:14:20 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entradas.php on line 167
+[09-Jun-2018 19:26:01 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[09-Jun-2018 19:26:01 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[09-Jun-2018 19:26:01 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[09-Jun-2018 19:26:01 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entradas.php on line 166
+[09-Jun-2018 19:26:01 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entradas.php on line 167
+[10-Jun-2018 14:18:29 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[10-Jun-2018 14:18:29 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[10-Jun-2018 14:18:29 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[10-Jun-2018 14:18:29 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entradas.php on line 166
+[10-Jun-2018 14:18:29 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entradas.php on line 167
+[10-Jun-2018 14:18:36 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[10-Jun-2018 14:18:36 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[10-Jun-2018 14:18:36 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[10-Jun-2018 14:18:36 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[10-Jun-2018 14:18:36 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[10-Jun-2018 14:18:36 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[10-Jun-2018 14:18:36 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[10-Jun-2018 14:18:36 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[10-Jun-2018 14:18:36 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[10-Jun-2018 14:18:36 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[10-Jun-2018 14:18:36 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[10-Jun-2018 14:18:36 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[10-Jun-2018 14:18:36 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[10-Jun-2018 14:18:36 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[10-Jun-2018 14:18:36 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[10-Jun-2018 14:18:36 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[10-Jun-2018 14:18:36 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[10-Jun-2018 14:18:36 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[10-Jun-2018 14:18:36 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[10-Jun-2018 14:22:02 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[10-Jun-2018 14:22:02 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[10-Jun-2018 14:22:02 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[10-Jun-2018 14:22:02 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entradas.php on line 166
+[10-Jun-2018 14:22:02 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entradas.php on line 167
+[10-Jun-2018 14:22:13 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[10-Jun-2018 14:22:13 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[10-Jun-2018 14:22:13 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[10-Jun-2018 14:22:13 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entradas.php on line 166
+[10-Jun-2018 14:22:13 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entradas.php on line 167
+[10-Jun-2018 14:22:27 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[10-Jun-2018 14:22:27 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[10-Jun-2018 14:22:27 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[10-Jun-2018 14:22:27 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entradas.php on line 166
+[10-Jun-2018 14:22:27 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entradas.php on line 167
+[10-Jun-2018 14:22:28 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[10-Jun-2018 14:22:28 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[10-Jun-2018 14:22:28 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[10-Jun-2018 14:22:28 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entradas.php on line 166
+[10-Jun-2018 14:22:28 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entradas.php on line 167
+[10-Jun-2018 14:22:29 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[10-Jun-2018 14:22:29 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[10-Jun-2018 14:22:29 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[10-Jun-2018 14:22:29 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entradas.php on line 166
+[10-Jun-2018 14:22:29 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entradas.php on line 167
+[10-Jun-2018 14:22:40 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[10-Jun-2018 14:22:40 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[10-Jun-2018 14:22:40 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[10-Jun-2018 14:22:40 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entradas.php on line 166
+[10-Jun-2018 14:22:40 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entradas.php on line 167
+[10-Jun-2018 14:22:43 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[10-Jun-2018 14:22:43 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[10-Jun-2018 14:22:43 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[10-Jun-2018 14:22:43 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entradas.php on line 166
+[10-Jun-2018 14:22:43 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entradas.php on line 167
+[10-Jun-2018 14:26:31 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[10-Jun-2018 14:26:31 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[10-Jun-2018 14:26:31 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[10-Jun-2018 14:26:31 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[10-Jun-2018 14:26:31 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[10-Jun-2018 14:26:31 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[10-Jun-2018 14:26:31 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[10-Jun-2018 14:26:31 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[10-Jun-2018 14:26:31 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[10-Jun-2018 14:26:31 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[10-Jun-2018 14:26:31 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[10-Jun-2018 14:26:31 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[10-Jun-2018 14:26:31 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[10-Jun-2018 14:26:31 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[10-Jun-2018 14:26:31 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[10-Jun-2018 14:26:31 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[10-Jun-2018 14:26:31 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[10-Jun-2018 14:26:31 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[10-Jun-2018 14:26:31 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[10-Jun-2018 14:27:00 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[10-Jun-2018 14:27:00 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[10-Jun-2018 14:27:00 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[10-Jun-2018 14:27:00 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[10-Jun-2018 14:27:00 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[10-Jun-2018 14:27:00 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[10-Jun-2018 14:27:00 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[10-Jun-2018 14:27:00 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[10-Jun-2018 14:27:00 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[10-Jun-2018 14:27:00 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[10-Jun-2018 14:27:00 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[10-Jun-2018 14:27:00 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[10-Jun-2018 14:27:00 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[10-Jun-2018 14:27:00 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[10-Jun-2018 14:27:00 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[10-Jun-2018 14:27:00 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[10-Jun-2018 14:27:00 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[10-Jun-2018 14:27:00 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[10-Jun-2018 14:27:00 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[10-Jun-2018 14:27:06 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[10-Jun-2018 14:27:06 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[10-Jun-2018 14:27:06 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[10-Jun-2018 14:27:06 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entradas.php on line 166
+[10-Jun-2018 14:27:06 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entradas.php on line 167
+[10-Jun-2018 14:27:21 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/haliburton/public_html/admin/entradas.php on line 166
+[10-Jun-2018 14:27:21 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entradas.php on line 167
+[10-Jun-2018 22:50:24 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[10-Jun-2018 22:50:24 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[10-Jun-2018 22:50:24 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[10-Jun-2018 22:50:24 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[10-Jun-2018 22:50:24 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[10-Jun-2018 22:50:24 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[10-Jun-2018 22:50:24 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[10-Jun-2018 22:50:24 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[10-Jun-2018 22:50:24 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[10-Jun-2018 22:50:24 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[10-Jun-2018 22:50:24 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[10-Jun-2018 22:50:24 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[10-Jun-2018 22:50:24 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[10-Jun-2018 22:50:24 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[10-Jun-2018 22:50:24 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[10-Jun-2018 22:50:24 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[10-Jun-2018 22:50:24 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[10-Jun-2018 22:50:24 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[10-Jun-2018 22:50:24 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  imagecreatefrompng(): '../uploaded/1528689032_hd.zip' is not a valid PNG file in /home/haliburton/public_html/admin/upload_fotos.php on line 52
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  Division by zero in /home/haliburton/public_html/admin/upload_fotos.php on line 62
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/haliburton/public_html/admin/upload_fotos.php on line 64
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  Division by zero in /home/haliburton/public_html/admin/upload_fotos.php on line 68
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/haliburton/public_html/admin/upload_fotos.php on line 69
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  Division by zero in /home/haliburton/public_html/admin/upload_fotos.php on line 73
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/haliburton/public_html/admin/upload_fotos.php on line 74
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  Division by zero in /home/haliburton/public_html/admin/upload_fotos.php on line 78
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/haliburton/public_html/admin/upload_fotos.php on line 79
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  Division by zero in /home/haliburton/public_html/admin/upload_fotos.php on line 83
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/haliburton/public_html/admin/upload_fotos.php on line 84
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  Division by zero in /home/haliburton/public_html/admin/upload_fotos.php on line 88
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/haliburton/public_html/admin/upload_fotos.php on line 89
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 94
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 96
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 98
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 100
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 102
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 104
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 110
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 113
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 115
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 117
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 119
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 121
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 127
+[10-Jun-2018 22:51:40 America/Chicago] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/upload_fotos.php on line 128
+[12-Jun-2018 08:20:34 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[12-Jun-2018 08:20:34 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[12-Jun-2018 08:20:34 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[12-Jun-2018 08:20:34 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[12-Jun-2018 08:20:34 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[12-Jun-2018 08:20:34 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[12-Jun-2018 08:20:34 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[12-Jun-2018 08:20:34 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[12-Jun-2018 08:20:34 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[12-Jun-2018 08:20:34 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[12-Jun-2018 08:20:34 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[12-Jun-2018 08:20:34 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[12-Jun-2018 08:20:34 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[12-Jun-2018 08:20:34 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[12-Jun-2018 08:20:34 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[12-Jun-2018 08:20:34 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[12-Jun-2018 08:20:34 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[12-Jun-2018 08:20:34 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[12-Jun-2018 08:20:34 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[12-Jun-2018 10:12:29 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[12-Jun-2018 10:12:29 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[12-Jun-2018 10:12:29 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[12-Jun-2018 10:12:29 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entrada_editar.php on line 13
+[12-Jun-2018 10:12:29 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entrada_editar.php on line 14
+[12-Jun-2018 10:12:29 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entrada_editar.php on line 561
+[12-Jun-2018 10:12:29 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entrada_editar.php on line 562
+[12-Jun-2018 10:12:37 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[12-Jun-2018 10:12:38 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[12-Jun-2018 10:12:38 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[12-Jun-2018 10:12:38 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[12-Jun-2018 10:12:38 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[12-Jun-2018 10:12:38 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[12-Jun-2018 10:12:38 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[12-Jun-2018 10:12:38 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[12-Jun-2018 10:12:38 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[12-Jun-2018 10:12:38 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[12-Jun-2018 10:12:38 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[12-Jun-2018 10:12:38 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[12-Jun-2018 10:12:38 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[12-Jun-2018 10:12:38 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[12-Jun-2018 10:12:38 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[12-Jun-2018 10:12:38 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[12-Jun-2018 10:12:38 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[12-Jun-2018 10:12:38 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[12-Jun-2018 10:12:38 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[12-Jun-2018 10:12:43 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[12-Jun-2018 10:12:43 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[12-Jun-2018 10:12:43 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[12-Jun-2018 10:12:43 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entrada_editar.php on line 13
+[12-Jun-2018 10:12:43 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entrada_editar.php on line 14
+[12-Jun-2018 10:12:43 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entrada_editar.php on line 561
+[12-Jun-2018 10:12:43 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entrada_editar.php on line 562
+[12-Jun-2018 10:17:16 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[12-Jun-2018 10:17:16 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[12-Jun-2018 10:17:16 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[12-Jun-2018 10:17:16 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entrada_editar.php on line 13
+[12-Jun-2018 10:17:16 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entrada_editar.php on line 14
+[12-Jun-2018 10:17:16 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entrada_editar.php on line 561
+[12-Jun-2018 10:17:16 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entrada_editar.php on line 562
+[12-Jun-2018 10:18:03 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[12-Jun-2018 10:18:03 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[12-Jun-2018 10:18:03 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[12-Jun-2018 10:18:03 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entrada_editar.php on line 13
+[12-Jun-2018 10:18:03 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entrada_editar.php on line 14
+[12-Jun-2018 10:18:03 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entrada_editar.php on line 561
+[12-Jun-2018 10:18:03 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entrada_editar.php on line 562
+[13-Jun-2018 11:08:38 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[13-Jun-2018 11:08:38 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[13-Jun-2018 11:08:38 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[13-Jun-2018 11:08:38 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entrada_editar.php on line 13
+[13-Jun-2018 11:08:38 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entrada_editar.php on line 14
+[13-Jun-2018 11:08:38 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entrada_editar.php on line 561
+[13-Jun-2018 11:08:38 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entrada_editar.php on line 562
+[13-Jun-2018 11:08:46 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[13-Jun-2018 11:08:46 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[13-Jun-2018 11:08:46 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[13-Jun-2018 11:08:46 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[13-Jun-2018 11:08:46 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[13-Jun-2018 11:08:46 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[13-Jun-2018 11:08:46 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[13-Jun-2018 11:08:46 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[13-Jun-2018 11:08:46 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[13-Jun-2018 11:08:46 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[13-Jun-2018 11:08:46 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[13-Jun-2018 11:08:46 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[13-Jun-2018 11:08:46 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[13-Jun-2018 11:08:46 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[13-Jun-2018 11:08:46 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[13-Jun-2018 11:08:46 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[13-Jun-2018 11:08:46 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[13-Jun-2018 11:08:46 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[13-Jun-2018 11:08:46 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[14-Jun-2018 23:10:06 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[14-Jun-2018 23:10:06 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[14-Jun-2018 23:10:06 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[14-Jun-2018 23:10:06 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[14-Jun-2018 23:10:06 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[14-Jun-2018 23:10:06 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[14-Jun-2018 23:10:06 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[14-Jun-2018 23:10:06 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[14-Jun-2018 23:10:06 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[14-Jun-2018 23:10:06 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[14-Jun-2018 23:10:06 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[14-Jun-2018 23:10:06 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[14-Jun-2018 23:10:06 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[14-Jun-2018 23:10:06 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[14-Jun-2018 23:10:06 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[14-Jun-2018 23:10:06 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[14-Jun-2018 23:10:06 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[14-Jun-2018 23:10:06 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[14-Jun-2018 23:10:06 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[14-Jun-2018 23:44:20 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[14-Jun-2018 23:44:20 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[14-Jun-2018 23:44:20 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[14-Jun-2018 23:44:20 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[14-Jun-2018 23:44:20 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[14-Jun-2018 23:44:20 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[14-Jun-2018 23:44:20 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[14-Jun-2018 23:44:20 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[14-Jun-2018 23:44:20 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[14-Jun-2018 23:44:20 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[14-Jun-2018 23:44:20 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[14-Jun-2018 23:44:20 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[14-Jun-2018 23:44:20 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[14-Jun-2018 23:44:20 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[14-Jun-2018 23:44:20 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[14-Jun-2018 23:44:20 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[14-Jun-2018 23:44:20 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[14-Jun-2018 23:44:20 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[14-Jun-2018 23:44:20 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[18-Jun-2018 17:04:44 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[18-Jun-2018 17:04:44 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[18-Jun-2018 17:04:44 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[18-Jun-2018 17:04:44 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[18-Jun-2018 17:04:44 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[18-Jun-2018 17:04:44 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[18-Jun-2018 17:04:44 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[18-Jun-2018 17:04:44 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[18-Jun-2018 17:04:44 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[18-Jun-2018 17:04:44 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[18-Jun-2018 17:04:44 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[18-Jun-2018 17:04:44 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[18-Jun-2018 17:04:44 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[18-Jun-2018 17:04:44 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[18-Jun-2018 17:04:44 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[18-Jun-2018 17:04:44 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[18-Jun-2018 17:04:44 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[18-Jun-2018 17:04:44 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[18-Jun-2018 17:04:44 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[18-Jun-2018 17:53:29 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[18-Jun-2018 17:53:29 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[18-Jun-2018 17:53:29 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[18-Jun-2018 17:53:29 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[18-Jun-2018 17:53:29 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[18-Jun-2018 17:53:29 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[18-Jun-2018 17:53:29 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[18-Jun-2018 17:53:29 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[18-Jun-2018 17:53:29 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[18-Jun-2018 17:53:29 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[18-Jun-2018 17:53:29 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[18-Jun-2018 17:53:29 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[18-Jun-2018 17:53:29 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[18-Jun-2018 17:53:29 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[18-Jun-2018 17:53:29 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[18-Jun-2018 17:53:29 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[18-Jun-2018 17:53:29 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[18-Jun-2018 17:53:29 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[18-Jun-2018 17:53:29 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[19-Jun-2018 08:59:28 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[19-Jun-2018 08:59:28 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[19-Jun-2018 08:59:28 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[19-Jun-2018 08:59:28 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[19-Jun-2018 08:59:28 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[19-Jun-2018 08:59:28 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[19-Jun-2018 08:59:28 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[19-Jun-2018 08:59:28 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[19-Jun-2018 08:59:28 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[19-Jun-2018 08:59:28 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[19-Jun-2018 08:59:28 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[19-Jun-2018 08:59:28 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[19-Jun-2018 08:59:28 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[19-Jun-2018 08:59:28 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[19-Jun-2018 08:59:28 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[19-Jun-2018 08:59:28 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[19-Jun-2018 08:59:28 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[19-Jun-2018 08:59:28 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[19-Jun-2018 08:59:28 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[19-Jun-2018 09:02:47 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[19-Jun-2018 09:02:47 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[19-Jun-2018 09:02:47 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[19-Jun-2018 09:02:47 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/empleado_eliminar_get.php on line 15
+[19-Jun-2018 09:02:47 America/Chicago] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/haliburton/public_html/admin/empleado_eliminar_get.php on line 19
+[19-Jun-2018 16:54:36 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[19-Jun-2018 16:54:36 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[19-Jun-2018 16:54:36 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[19-Jun-2018 16:54:36 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[19-Jun-2018 16:54:36 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[19-Jun-2018 16:54:36 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[19-Jun-2018 16:54:36 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[19-Jun-2018 16:54:36 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[19-Jun-2018 16:54:36 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[19-Jun-2018 16:54:36 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[19-Jun-2018 16:54:36 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[19-Jun-2018 16:54:36 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[19-Jun-2018 16:54:36 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[19-Jun-2018 16:54:36 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[19-Jun-2018 16:54:36 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[19-Jun-2018 16:54:36 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[19-Jun-2018 16:54:36 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[19-Jun-2018 16:54:36 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[19-Jun-2018 16:54:36 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[19-Jun-2018 21:08:15 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[19-Jun-2018 21:08:15 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[19-Jun-2018 21:08:15 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[19-Jun-2018 21:08:15 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[19-Jun-2018 21:08:15 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[19-Jun-2018 21:08:15 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[19-Jun-2018 21:08:15 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[19-Jun-2018 21:08:15 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[19-Jun-2018 21:08:15 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[19-Jun-2018 21:08:15 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[19-Jun-2018 21:08:15 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[19-Jun-2018 21:08:15 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[19-Jun-2018 21:08:15 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[19-Jun-2018 21:08:15 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[19-Jun-2018 21:08:15 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[19-Jun-2018 21:08:15 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[19-Jun-2018 21:08:15 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[19-Jun-2018 21:08:15 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[19-Jun-2018 21:08:15 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[19-Jun-2018 22:39:22 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[19-Jun-2018 22:39:23 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[19-Jun-2018 22:39:23 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[19-Jun-2018 22:39:23 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[19-Jun-2018 22:39:23 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[19-Jun-2018 22:39:23 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[19-Jun-2018 22:39:23 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[19-Jun-2018 22:39:23 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[19-Jun-2018 22:39:23 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[19-Jun-2018 22:39:23 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[19-Jun-2018 22:39:23 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[19-Jun-2018 22:39:23 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[19-Jun-2018 22:39:23 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[19-Jun-2018 22:39:23 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[19-Jun-2018 22:39:23 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[19-Jun-2018 22:39:23 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[19-Jun-2018 22:39:23 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[19-Jun-2018 22:39:23 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[19-Jun-2018 22:39:23 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[20-Jun-2018 19:01:33 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[20-Jun-2018 19:01:33 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[20-Jun-2018 19:01:33 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[20-Jun-2018 19:01:33 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[20-Jun-2018 19:01:33 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[20-Jun-2018 19:01:33 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[20-Jun-2018 19:01:33 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[20-Jun-2018 19:01:33 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[20-Jun-2018 19:01:33 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[20-Jun-2018 19:01:33 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[20-Jun-2018 19:01:33 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[20-Jun-2018 19:01:33 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[20-Jun-2018 19:01:33 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[20-Jun-2018 19:01:33 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[20-Jun-2018 19:01:33 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[20-Jun-2018 19:01:33 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[20-Jun-2018 19:01:33 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[20-Jun-2018 19:01:33 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[20-Jun-2018 19:01:33 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[20-Jun-2018 19:35:30 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[20-Jun-2018 19:35:30 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[20-Jun-2018 19:35:30 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[20-Jun-2018 19:35:30 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[20-Jun-2018 19:35:30 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[20-Jun-2018 19:35:30 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[20-Jun-2018 19:35:30 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[20-Jun-2018 19:35:30 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[20-Jun-2018 19:35:30 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[20-Jun-2018 19:35:30 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[20-Jun-2018 19:35:30 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[20-Jun-2018 19:35:30 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[20-Jun-2018 19:35:30 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[20-Jun-2018 19:35:30 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[20-Jun-2018 19:35:30 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[20-Jun-2018 19:35:30 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[20-Jun-2018 19:35:30 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[20-Jun-2018 19:35:30 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[20-Jun-2018 19:35:30 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[20-Jun-2018 19:35:58 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[20-Jun-2018 19:35:58 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[20-Jun-2018 19:35:58 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[20-Jun-2018 19:35:58 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entrada_editar.php on line 13
+[20-Jun-2018 19:35:58 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entrada_editar.php on line 14
+[20-Jun-2018 19:35:58 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entrada_editar.php on line 561
+[20-Jun-2018 19:35:58 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entrada_editar.php on line 562
+[20-Jun-2018 21:23:35 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[20-Jun-2018 21:23:35 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[20-Jun-2018 21:23:35 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[20-Jun-2018 21:23:35 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[20-Jun-2018 21:23:35 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[20-Jun-2018 21:23:35 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[20-Jun-2018 21:23:35 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[20-Jun-2018 21:23:35 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[20-Jun-2018 21:23:35 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[20-Jun-2018 21:23:35 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[20-Jun-2018 21:23:35 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[20-Jun-2018 21:23:35 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[20-Jun-2018 21:23:35 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[20-Jun-2018 21:23:35 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[20-Jun-2018 21:23:35 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[20-Jun-2018 21:23:35 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[20-Jun-2018 21:23:35 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[20-Jun-2018 21:23:35 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[20-Jun-2018 21:23:35 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[21-Jun-2018 00:14:58 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[21-Jun-2018 00:14:58 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[21-Jun-2018 00:14:58 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[21-Jun-2018 00:14:58 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[21-Jun-2018 00:14:58 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[21-Jun-2018 00:14:58 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[21-Jun-2018 00:14:58 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[21-Jun-2018 00:14:58 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[21-Jun-2018 00:14:58 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[21-Jun-2018 00:14:58 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[21-Jun-2018 00:14:58 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[21-Jun-2018 00:14:58 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[21-Jun-2018 00:14:58 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[21-Jun-2018 00:14:58 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[21-Jun-2018 00:14:58 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[21-Jun-2018 00:14:58 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[21-Jun-2018 00:14:58 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[21-Jun-2018 00:14:58 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[21-Jun-2018 00:14:58 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[21-Jun-2018 00:47:33 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[21-Jun-2018 00:47:33 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[21-Jun-2018 00:47:33 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[21-Jun-2018 00:47:33 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[21-Jun-2018 00:47:33 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[21-Jun-2018 00:47:33 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[21-Jun-2018 00:47:33 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[21-Jun-2018 00:47:33 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[21-Jun-2018 00:47:33 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[21-Jun-2018 00:47:33 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[21-Jun-2018 00:47:33 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[21-Jun-2018 00:47:33 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[21-Jun-2018 00:47:33 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[21-Jun-2018 00:47:33 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[21-Jun-2018 00:47:33 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[21-Jun-2018 00:47:33 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[21-Jun-2018 00:47:33 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[21-Jun-2018 00:47:33 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[21-Jun-2018 00:47:33 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[21-Jun-2018 02:15:24 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[21-Jun-2018 02:15:25 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[21-Jun-2018 02:15:25 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[21-Jun-2018 02:15:25 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[21-Jun-2018 02:15:25 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[21-Jun-2018 02:15:25 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[21-Jun-2018 02:15:25 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[21-Jun-2018 02:15:25 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[21-Jun-2018 02:15:25 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[21-Jun-2018 02:15:25 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[21-Jun-2018 02:15:25 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[21-Jun-2018 02:15:25 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[21-Jun-2018 02:15:25 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[21-Jun-2018 02:15:25 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[21-Jun-2018 02:15:25 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[21-Jun-2018 02:15:25 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[21-Jun-2018 02:15:25 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[21-Jun-2018 02:15:25 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[21-Jun-2018 02:15:25 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[21-Jun-2018 06:28:46 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[21-Jun-2018 06:28:46 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[21-Jun-2018 06:28:46 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[21-Jun-2018 06:28:46 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[21-Jun-2018 06:28:46 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[21-Jun-2018 06:28:46 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[21-Jun-2018 06:28:46 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[21-Jun-2018 06:28:46 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[21-Jun-2018 06:28:46 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[21-Jun-2018 06:28:46 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[21-Jun-2018 06:28:46 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[21-Jun-2018 06:28:46 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[21-Jun-2018 06:28:46 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[21-Jun-2018 06:28:46 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[21-Jun-2018 06:28:46 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[21-Jun-2018 06:28:46 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[21-Jun-2018 06:28:46 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[21-Jun-2018 06:28:46 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[21-Jun-2018 06:28:46 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[21-Jun-2018 10:52:28 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[21-Jun-2018 10:52:28 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[21-Jun-2018 10:52:28 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[21-Jun-2018 10:52:28 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[21-Jun-2018 10:52:28 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[21-Jun-2018 10:52:28 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[21-Jun-2018 10:52:28 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[21-Jun-2018 10:52:28 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[21-Jun-2018 10:52:28 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[21-Jun-2018 10:52:28 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[21-Jun-2018 10:52:28 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[21-Jun-2018 10:52:28 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[21-Jun-2018 10:52:28 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[21-Jun-2018 10:52:28 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[21-Jun-2018 10:52:28 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[21-Jun-2018 10:52:28 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[21-Jun-2018 10:52:28 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[21-Jun-2018 10:52:28 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[21-Jun-2018 10:52:28 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[21-Jun-2018 10:55:55 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[21-Jun-2018 10:55:55 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[21-Jun-2018 10:55:55 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[21-Jun-2018 10:55:55 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[21-Jun-2018 10:55:55 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[21-Jun-2018 10:55:55 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[21-Jun-2018 10:55:55 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[21-Jun-2018 10:55:55 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[21-Jun-2018 10:55:55 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[21-Jun-2018 10:55:55 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[21-Jun-2018 10:55:55 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[21-Jun-2018 10:55:55 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[21-Jun-2018 10:55:55 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[21-Jun-2018 10:55:55 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[21-Jun-2018 10:55:55 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[21-Jun-2018 10:55:55 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[21-Jun-2018 10:55:55 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[21-Jun-2018 10:55:55 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[21-Jun-2018 10:55:55 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[21-Jun-2018 12:36:50 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[21-Jun-2018 12:36:50 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[21-Jun-2018 12:36:50 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[21-Jun-2018 12:36:50 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[21-Jun-2018 12:36:50 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[21-Jun-2018 12:36:50 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[21-Jun-2018 12:36:50 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[21-Jun-2018 12:36:50 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[21-Jun-2018 12:36:50 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[21-Jun-2018 12:36:50 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[21-Jun-2018 12:36:50 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[21-Jun-2018 12:36:50 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[21-Jun-2018 12:36:50 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[21-Jun-2018 12:36:50 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[21-Jun-2018 12:36:50 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[21-Jun-2018 12:36:50 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[21-Jun-2018 12:36:50 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[21-Jun-2018 12:36:50 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[21-Jun-2018 12:36:50 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[09-Jul-2018 19:24:56 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/haliburton/public_html/admin/hotel_agregar.php on line 532
+[09-Jul-2018 19:24:56 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/hotel_agregar.php on line 533
+[09-Jul-2018 19:25:02 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[09-Jul-2018 19:25:02 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[09-Jul-2018 19:25:02 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[09-Jul-2018 19:25:02 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[09-Jul-2018 19:25:02 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[09-Jul-2018 19:25:02 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[09-Jul-2018 19:25:02 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[09-Jul-2018 19:25:02 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[09-Jul-2018 19:25:02 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[09-Jul-2018 19:25:02 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[09-Jul-2018 19:25:02 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[09-Jul-2018 19:25:02 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[09-Jul-2018 19:25:02 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[09-Jul-2018 19:25:02 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[09-Jul-2018 19:25:02 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[09-Jul-2018 19:25:02 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[09-Jul-2018 19:25:02 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[09-Jul-2018 19:25:02 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[09-Jul-2018 19:25:02 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[09-Jul-2018 19:25:08 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/haliburton/public_html/admin/hotel_agregar.php on line 532
+[09-Jul-2018 19:25:08 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/hotel_agregar.php on line 533
+[07-Sep-2018 14:21:06 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[07-Sep-2018 14:21:06 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[07-Sep-2018 14:21:06 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[07-Sep-2018 14:21:06 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[07-Sep-2018 14:21:06 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[07-Sep-2018 14:21:06 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[07-Sep-2018 14:21:06 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[07-Sep-2018 14:21:06 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[07-Sep-2018 14:21:06 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[07-Sep-2018 14:21:06 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[07-Sep-2018 14:21:06 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[07-Sep-2018 14:21:06 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[07-Sep-2018 14:21:06 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[07-Sep-2018 14:21:06 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[07-Sep-2018 14:21:06 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[07-Sep-2018 14:21:06 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[07-Sep-2018 14:21:06 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[07-Sep-2018 14:21:06 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[07-Sep-2018 14:21:06 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[07-Sep-2018 14:22:39 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[07-Sep-2018 14:22:39 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[07-Sep-2018 14:22:39 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[07-Sep-2018 14:22:39 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[07-Sep-2018 14:22:39 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[07-Sep-2018 14:22:39 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[07-Sep-2018 14:22:39 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[07-Sep-2018 14:22:39 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[07-Sep-2018 14:22:39 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[07-Sep-2018 14:22:39 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[07-Sep-2018 14:22:39 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[07-Sep-2018 14:22:39 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[07-Sep-2018 14:22:39 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[07-Sep-2018 14:22:39 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[07-Sep-2018 14:22:39 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[07-Sep-2018 14:22:39 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[07-Sep-2018 14:22:39 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[07-Sep-2018 14:22:39 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[07-Sep-2018 14:22:39 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[07-Sep-2018 14:22:57 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[07-Sep-2018 14:22:57 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[07-Sep-2018 14:22:57 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[07-Sep-2018 14:22:57 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entrada_editar.php on line 13
+[07-Sep-2018 14:22:57 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entrada_editar.php on line 14
+[07-Sep-2018 14:22:57 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/entrada_editar.php on line 561
+[07-Sep-2018 14:22:57 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/entrada_editar.php on line 562
+[07-Sep-2018 15:22:59 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[07-Sep-2018 15:22:59 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[07-Sep-2018 15:22:59 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[07-Sep-2018 15:22:59 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[07-Sep-2018 15:22:59 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[07-Sep-2018 15:22:59 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[07-Sep-2018 15:22:59 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[07-Sep-2018 15:22:59 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[07-Sep-2018 15:22:59 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[07-Sep-2018 15:22:59 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[07-Sep-2018 15:22:59 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[07-Sep-2018 15:22:59 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[07-Sep-2018 15:22:59 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[07-Sep-2018 15:22:59 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[07-Sep-2018 15:22:59 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[07-Sep-2018 15:22:59 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[07-Sep-2018 15:22:59 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[07-Sep-2018 15:22:59 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[07-Sep-2018 15:22:59 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[12-Sep-2018 13:32:26 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[12-Sep-2018 13:32:26 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[12-Sep-2018 13:32:26 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[12-Sep-2018 13:32:26 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[12-Sep-2018 13:32:26 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[12-Sep-2018 13:32:26 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[12-Sep-2018 13:32:26 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[12-Sep-2018 13:32:26 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[12-Sep-2018 13:32:26 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[12-Sep-2018 13:32:26 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[12-Sep-2018 13:32:26 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[12-Sep-2018 13:32:26 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[12-Sep-2018 13:32:26 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[12-Sep-2018 13:32:26 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[12-Sep-2018 13:32:26 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[12-Sep-2018 13:32:26 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[12-Sep-2018 13:32:26 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[12-Sep-2018 13:32:26 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[12-Sep-2018 13:32:26 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[12-Sep-2018 17:23:07 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[12-Sep-2018 17:23:07 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[12-Sep-2018 17:23:07 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[12-Sep-2018 17:23:07 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[12-Sep-2018 17:23:07 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[12-Sep-2018 17:23:07 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[12-Sep-2018 17:23:07 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[12-Sep-2018 17:23:07 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[12-Sep-2018 17:23:07 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[12-Sep-2018 17:23:07 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[12-Sep-2018 17:23:07 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[12-Sep-2018 17:23:07 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[12-Sep-2018 17:23:07 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[12-Sep-2018 17:23:07 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[12-Sep-2018 17:23:07 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[12-Sep-2018 17:23:07 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[12-Sep-2018 17:23:07 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[12-Sep-2018 17:23:07 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[12-Sep-2018 17:23:07 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[12-Sep-2018 20:40:08 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[12-Sep-2018 20:40:08 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[12-Sep-2018 20:40:08 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[12-Sep-2018 20:40:08 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[12-Sep-2018 20:40:08 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[12-Sep-2018 20:40:08 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[12-Sep-2018 20:40:08 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[12-Sep-2018 20:40:08 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[12-Sep-2018 20:40:08 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[12-Sep-2018 20:40:08 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[12-Sep-2018 20:40:08 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[12-Sep-2018 20:40:08 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[12-Sep-2018 20:40:08 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[12-Sep-2018 20:40:08 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[12-Sep-2018 20:40:08 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[12-Sep-2018 20:40:08 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[12-Sep-2018 20:40:08 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[12-Sep-2018 20:40:08 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[12-Sep-2018 20:40:08 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[13-Sep-2018 12:03:51 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[13-Sep-2018 12:03:51 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[13-Sep-2018 12:03:51 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[13-Sep-2018 12:03:51 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[13-Sep-2018 12:03:51 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[13-Sep-2018 12:03:51 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[13-Sep-2018 12:03:51 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[13-Sep-2018 12:03:51 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[13-Sep-2018 12:03:51 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[13-Sep-2018 12:03:51 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[13-Sep-2018 12:03:51 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[13-Sep-2018 12:03:51 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[13-Sep-2018 12:03:51 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[13-Sep-2018 12:03:51 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[13-Sep-2018 12:03:51 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[13-Sep-2018 12:03:51 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[13-Sep-2018 12:03:51 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[13-Sep-2018 12:03:51 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[13-Sep-2018 12:03:51 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[25-Sep-2018 12:22:02 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[25-Sep-2018 12:22:03 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[25-Sep-2018 12:22:03 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[25-Sep-2018 12:22:03 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[25-Sep-2018 12:22:03 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[25-Sep-2018 12:22:03 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[25-Sep-2018 12:22:03 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[25-Sep-2018 12:22:03 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[25-Sep-2018 12:22:03 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[25-Sep-2018 12:22:03 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[25-Sep-2018 12:22:03 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[25-Sep-2018 12:22:03 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[25-Sep-2018 12:22:03 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[25-Sep-2018 12:22:03 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[25-Sep-2018 12:22:03 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[25-Sep-2018 12:22:03 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[25-Sep-2018 12:22:03 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[25-Sep-2018 12:22:03 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[25-Sep-2018 12:22:03 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285
+[25-Sep-2018 12:33:59 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/haliburton/public_html/admin/includes/mysql_infos2.php on line 13
+[25-Sep-2018 12:34:19 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/haliburton/public_html/admin/entrada_agregar_form.php on line 53
+[25-Sep-2018 12:34:25 America/Chicago] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/haliburton/public_html/admin/includes/mysql_infos2.php on line 13
+[25-Sep-2018 12:34:41 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/haliburton/public_html/admin/includes/mysql_infos2.php on line 13
+[25-Sep-2018 12:34:45 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/haliburton/public_html/admin/entradas.php on line 161
+[25-Sep-2018 12:34:45 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/haliburton/public_html/admin/entradas.php on line 162
+[25-Sep-2018 12:34:53 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/haliburton/public_html/admin/includes/mysql_infos2.php on line 13
+[25-Sep-2018 12:34:53 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/haliburton/public_html/admin/entrada_agregar.php on line 532
+[25-Sep-2018 12:34:53 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/haliburton/public_html/admin/entrada_agregar.php on line 533
+[25-Sep-2018 13:30:57 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[25-Sep-2018 13:30:58 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'gandycom_admin'@'localhost' (using password: YES) in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 13
+[25-Sep-2018 13:30:58 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/includes/mysql_infos.php on line 14
+[25-Sep-2018 13:30:58 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 171
+[25-Sep-2018 13:30:58 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 172
+[25-Sep-2018 13:30:58 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 183
+[25-Sep-2018 13:30:58 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 184
+[25-Sep-2018 13:30:58 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 195
+[25-Sep-2018 13:30:58 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 196
+[25-Sep-2018 13:30:58 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 208
+[25-Sep-2018 13:30:58 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 209
+[25-Sep-2018 13:30:58 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 221
+[25-Sep-2018 13:30:58 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 222
+[25-Sep-2018 13:30:58 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 232
+[25-Sep-2018 13:30:58 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 233
+[25-Sep-2018 13:30:58 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 244
+[25-Sep-2018 13:30:58 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 245
+[25-Sep-2018 13:30:58 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/haliburton/public_html/admin/home.php on line 284
+[25-Sep-2018 13:30:58 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/haliburton/public_html/admin/home.php on line 285

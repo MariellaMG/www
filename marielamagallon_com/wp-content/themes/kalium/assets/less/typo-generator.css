@@ -1,0 +1,63 @@
+body {
+  font-family: "Questrial", cursive;
+  font-weight: 300;
+  text-transform: none;
+}
+.single-blog-holder .comments-holder .comment-holder .commenter-details .name a {
+  font-family: "Questrial", cursive;
+  font-weight: 300;
+  text-transform: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", Arial, sans-serif;
+  font-weight: 300;
+  text-transform: none;
+}
+.message-form .send {
+  font-family: "Montserrat", Arial, sans-serif;
+  font-weight: 300;
+  text-transform: none;
+}
+.single-blog-holder .blog-author-holder .author-name {
+  font-family: "Montserrat", Arial, sans-serif;
+  font-weight: 300;
+  text-transform: none;
+}
+.single-blog-holder .comments-holder .comment-holder .commenter-details .name {
+  font-family: "Montserrat", Arial, sans-serif;
+  font-weight: 300;
+  text-transform: none;
+}
+.single-blog-holder .post-controls .next-post strong,
+.single-blog-holder .post-controls .prev-post strong {
+  font-family: "Montserrat", Arial, sans-serif;
+  font-weight: 300;
+  text-transform: none;
+}
+.single-portfolio-holder .portfolio-big-navigation a {
+  font-family: "Montserrat", Arial, sans-serif;
+  font-weight: 300;
+  text-transform: none;
+}
+.main-header.menu-type-standard-menu .standard-menu-container {
+  font-family: "Montserrat", Arial, sans-serif;
+  font-weight: 300;
+  text-transform: none;
+}
+.main-header.menu-type-standard-menu .standard-menu-container div.menu > ul ul {
+  font-family: "Montserrat", Arial, sans-serif;
+  font-weight: 300;
+  text-transform: none;
+}
+.header-logo.logo-text,
+.search-input-live-type,
+.blog-sidebar .widget .product_list_widget li span {
+  font-family: "Montserrat", Arial, sans-serif;
+  font-weight: 300;
+  text-transform: none;
+}

@@ -1,0 +1,85 @@
+/*Bloque mediano*/
+@media only screen and () {
+
+}
+
+
+/*Bloque pequeño*/
+@media only screen and (max-width: 850px){
+	.imd1l{
+		width: 300px;
+		height: 300px;
+	}
+	a{
+		font-size: 40px;
+	}
+	.imd1block{
+		padding-top: 10%;
+	}
+	.md1_b1{
+		width: 200px;
+	    height: 120px;
+	    margin-left: 3%;
+	    padding-top: 11%;
+	}
+	.md1_b2{
+		width: 200px;
+	    height: 120px;
+	    margin-right: 5%;
+	    padding-top: 10%;
+	    margin-top: -25%;
+	}
+	.md1_b3{
+		padding-top: 8%;
+		width: 210px;
+	    height: 140px;
+	}
+	#bmn{
+		font-size: 40px;
+	}
+	.md2{
+		height: 600px;
+	}
+	.md3{
+		height: 400px;
+	}
+	.md4{
+		height: 600px;
+	}
+	.md5{
+		height: 750px;
+	}
+
+	.tittletog{
+		font-size: 20px;
+	}
+	.jys{
+		width: 80%;
+	}
+	.join{
+		padding-top: 7%;
+		width: 180px;
+	    height: 140px;
+	}
+	.spread{
+		padding-top: 8%;
+		width: 190px;
+	    height: 140px;
+	}
+	.md6{
+		height: 1280px;
+	}
+	.md7{
+		height: 885px;
+	}
+	.contactos{
+		margin-left: 18%;
+		margin-top: 35%;
+	}
+	.rosa{
+		margin-top: 50px;
+	}
+	.text2{
+		
+	}
+}

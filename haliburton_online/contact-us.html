@@ -1,0 +1,317 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Haliburton</title>
+ <script src="js/jquery-1.10.2.js"></script>
+ <script src="js/contact-us.js"></script>
+ <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet"> 
+<link rel="stylesheet" type="text/css" href="css/our-facility.css">
+<link rel="stylesheet" type="text/css" href="css/mid.css">
+<link rel="stylesheet" type="text/css" href="css/mini.css">
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?language=es&key=AIzaSyBDWeh4k3DcbeApzdqiX92bsqMQz4-bBV4"></script>
+
+<script type="text/javascript">
+
+$( document ).ready(function() {
+ 	initialize();
+	window.location = "/contact-us.php";
+});
+
+var map;
+var marker;
+
+
+function initialize() {
+  var myLatlng = new google.maps.LatLng(34.0498622, -117.5684783);
+  var myOptions = {
+    zoom: 17,
+    center: myLatlng,
+    mapTypeId: google.maps.MapTypeId.ROADMAP
+  };
+  map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+  
+  google.maps.event.addListener(map, 'dragend', function(event) {
+	posicion();
+  });  
+  
+  google.maps.event.addListener(map, 'zoom_changed', function(event) {
+	posicion();
+  });
+  
+	marker = new google.maps.Marker({
+		position: myLatlng, 
+		map: map
+	});
+	marker.setDraggable(true);
+	google.maps.event.addListener(marker, 'dragend', function(event) {
+		posicion();
+	});  
+	
+  
+}
+</script>
+</head>
+
+<body>
+<div class="top">
+	<div class="logo">
+    	<a href="/">	
+         <img src="/elements/top_logo.png" height="60">
+        </a>
+    </div>
+    
+    <div class="menu">
+    	<ul>
+            <li><a href="contact-us.html" onmouseover="VerMenuTres()">CONTACT</a></li>
+            <li><a href="#r" onmouseover="OcultarMenuDos()" >QUALITY</a></li>
+            <li><a href="#r" onmouseover="OcultarMenuDos()">PRODUCTS</a></li>
+            <li><a href="#r" onmouseover="OcultarMenuDos()">INNOVATION</a></li>
+            <li><a href="about-us.html" onmouseover="VerMenuDos()">ABOUT US</a></li>
+            <li><a href="/" onmouseover="OcultarMenuDos()">HOME</a></li>
+            
+        </ul>
+    </div>
+    
+    <div class="clr"></div>
+</div>
+
+
+<div style="width:120px; background:#000; position:absolute; top:100px; z-index:10; " id="menu2">
+    <div style=" width:110px; margin-left:10px;  background:#000;">
+            <ul>
+               <li style="width:110px; "><a href="core-values.html">CORE VALUES</a></li>
+               <li style="width:110px;"><a href="our-team-new.php">OUR TEAM</a></li>
+               <li style="width:110px;"><a href="our-facility.html">OUR FACILITY</a></li>
+               <li style="width:110px;"><a href="sustainability.html">SUSTAINABILITY</a></li>	
+            </ul>
+    </div>        
+</div>
+<div style="width:110px; background:#CCC; position:absolute; top:100px; z-index:10;  " id="menu3">
+        <ul>
+        	<li style="width:110px;"><a href="contact-us.html">CONTACT US</a></li>
+           <li style="width:110px;"><a href="careers.html">CAREERS</a></li>
+           <li style="width:110px;"><a href="brochures.html">BROCHURES</a></li>
+        </ul>
+</div>
+
+
+<div class="header" id="header" style=" background-image:url(images_contact_us/Homepage_contactus.jpg); background-size:100% auto; " onclick="OcultarMenuDos();">
+	<div class="blanco" id="blanco">
+    	<div class="blanco_int">
+    		<h1>CONTACT US</h1>
+            <h2>We want to hear from you</h2>
+    	</div>	
+    </div>
+</div>
+
+<div class="midmenu" >
+	<div class="midmenu_int">
+       <div class="midmenu_div" style="width:30% !important;"><a href="contact-us.html" class="rojo">CONTACT US</a></div>
+        <div class="midmenu_div" style="width:30% !important;"><a href="careers.html">CAREERS</a></div>
+        <div class="midmenu_div" style="width:30% !important;"><a href="brochures.html">BROCHURES</a></div>
+        <div class="clr"></div>
+    </div>
+</div>
+
+
+<div style="width:100%; overflow:hidden;">
+<div style="width:3000px; margin-left:-5px;">
+    <div class="bb1" id="bb1"   
+    style=" background-image:url(images_contact_us/Nancy_lobby.jpg);   " 
+     >
+        <a href="#our-facility" >
+            <div id="bb2" class="cc2">
+                <div class="cc3" id="bb3" >
+                
+                </div>
+            </div>   
+        </a>
+    </div>
+    
+    <div class="bb1_rosa" id="cc1" style="background-color:#f2cc92 !important;"  >
+        <div class="cc_texto" id="cc2" style="text-align:center;">
+        	<h2>CONTACT US</h2>
+            <p style="text-align:center !important;">
+
+<a href="https://www.google.com/maps/place/Haliburton+International+Foods,+Inc./@34.0498622,-117.5684783,15z/data=!4m5!3m4!1s0x0:0xa3faed946bdbd1e9!8m2!3d34.0498622!4d-117.5684783
+" target="_blank" style="color:#000; text-decoration:none;">            
+            3855 Jurupa Street <br />
+Ontario, CA 91761 <br />
+</a>
+
+<div id="map_canvas" style="width:60%; height:11vw; margin:auto;">
+
+
+</div>
+
+
+
+
+
+            <br /><br />
+909-428-8520 <br />
+<a href="mailto:info@haliburton.net" style="color:#000; text-decoration:none;">info@haliburton.net</a>
+
+
+            </p>
+        </div>
+    </div>
+   
+    
+    <div class="clr"></div>
+    
+</div>
+</div>
+
+<div style="width:100%; overflow:hidden;">
+<div style="width:3000px; margin-left:-5px;">
+
+    <div class="dd1" id="dd1"   
+    style="background-image:url(images_contact_us/HR_pic.jpg);" >
+        <a href="#our-facility" >
+            <div id="dd2" class="cc2">
+                <div class="cc3" id="dd3" >
+                
+                </div>
+            </div>   
+        </a>
+    </div>
+    
+    <div class="dd1" id="ee1"  
+    style="background-image:url(images_contact_us/Warehouse.jpg);" >
+        <a href="#our-facility" >
+            <div id="ee2" class="cc2">
+                <div class="cc3" id="ee3" >
+                
+                </div>
+            </div>   
+        </a>
+    </div>
+    
+    <div class="dd1" id="ff1"  
+    style="background-image:url(images_contact_us/Accounting.jpg);" >
+        <a href="#our-facility" >
+            <div id="ff2" class="cc2">
+                <div class="cc3" id="ff3" >
+                
+                </div>
+            </div>   
+        </a>
+    </div>
+    
+   
+    
+    <div class="clr"></div>
+    
+</div>
+</div>
+
+
+
+
+
+<div class="titulo">
+     <div class="titulo_tree">
+            <div class="titulo_info">
+              CONTACT US
+            </div>
+       </div>
+       <div class="clr"></div>
+</div>
+
+<div class="content">
+     <div class="footer_tree">
+            <div class="footer_info">
+             General Information <br />
+             <a href="mailto:info@haliburton.net" style="color:#FFF; text-decoration:none;">info@haliburton.net</a>
+            </div>
+       </div>
+         <div class="footer_tree">
+            <div class="footer_info">
+             
+              Customer Support <br />
+              <a href="mailto:support@haliburton.net" style="color:#FFF; text-decoration:none;">support@haliburton.net</a>
+
+            </div>
+       </div>
+         <div class="footer_tree">
+            <div class="footer_info">
+              
+              Sales <br />
+              <a href="mailto:sales@haliburton.net" style="color:#FFF; text-decoration:none;" >sales@haliburton.net</a>
+
+
+            </div>
+       </div>
+       <div class="clr"></div>
+</div>
+
+
+
+
+
+
+
+
+<div class="footer">
+
+	<div class="footer_tree">
+    	<div class="footer_icono">
+   	    	<img src="/elements/footer_logo.png" width="111"  />
+        </div>
+        
+       <div class="footer_ico">
+        	<div class="footer_info" >
+              <strong>NEED INFO?</strong><br />
+              Contact us with questions about<br />
+              products or services.<br /><br />
+              909-428-8520 &nbsp; <a href="mailto:info@haliburton.net" style="color:#ffffff; text-decoration:none;">| &nbsp; info@haliburton.net</a>
+            </div>
+        </div>
+        
+        <div class="clr"></div>
+        
+    </div>
+    
+    <div class="footer_tree">
+        <div class="footer_info">
+          <strong>NEED A CHALLENGE?</strong><br />
+          If you want to join a team that embraces growth and continuous<br />
+improvement, we want to hear from you.<br /><br />
+
+careers@haliburton.net
+        </div>
+    </div>
+    
+    <div class="footer_tree">
+    	<div class="footer_info">
+          <strong>FOLLOW US ON SOCIAL MEDIA</strong><br />
+          
+           <img src="elements/social.png" width="130" usemap="#Map" border="0"  />
+          <map name="Map" id="Map">
+            <area shape="rect" coords="9,6,28,27" href="https://www.facebook.com/HaliburtonInternationalFoods" target="_blank" />
+            <area shape="rect" coords="35,6,60,27" href="https://twitter.com/Haliburtonfoods" target="_blank" />
+            <area shape="rect" coords="69,7,91,28" href="https://www.instagram.com/Haliburtonfoods/" target="_blank" />
+            <area shape="rect" coords="101,6,124,29" href="https://www.linkedin.com/company/haliburton-international-foods/" target="_blank" />
+          </map>
+          
+          <br /><br />
+          
+          ©2018 Haliburton International Foods, Inc.
+         
+        </div>
+    </div>
+    
+    <div class="clr"></div>
+
+</div>
+
+
+
+<br /><br /><br />
+
+</body>
+
+</html>

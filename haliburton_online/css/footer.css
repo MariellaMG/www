@@ -1,0 +1,44 @@
+
+.footer_php{
+	width:85%;
+	height:60px;
+	margin:auto;
+	padding-top:160px;
+	margin-bottom:30px;
+	margin:auto;
+	font-family: 'Lato', sans-serif;
+	font-size:16px;
+	color:#FFF;
+}
+.footer_php_tree{
+	width:36%;
+	float:left;
+	/*background:#0000CC;*/
+}
+.footer_php_tree_20{
+	width:27%;
+	float:left;
+	/*background:#0000CC;*/
+}
+.footer_php_icono{
+	width:30%;
+	float:left;
+}
+.footer_php_ico{
+	width:70%;
+	float:left;
+}
+.footer_php_info{
+	padding:10px;
+}
+.footer_php a{
+	color:#FFF;
+}
+.footer_php a:hover{
+	color:#FFF;
+}
+.footer_php a:visited{
+	color:#FFF;
+}
+
+

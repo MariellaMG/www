@@ -1,0 +1,98 @@
+@charset "UTF-8";
+/* CSS Document */
+.log_tapa{
+	width:100%;
+	height:120vw;
+	background: rgba(0, 0, 0, 0.5);
+	position:absolute;
+	z-index:200;
+}
+.log_div{
+	width:500px;
+	height:350px;
+	top:50px;
+	background:#FFF;
+	border-radius:10px;
+	box-shadow: 5px 5px 5px #333;
+	position:absolute;
+	z-index:201;
+}
+.log_int{
+	padding:5%;
+}
+
+.log_x{
+	width:30px;
+	height:30px;
+	position:relative;
+	left:440px;
+	top:-20px;
+	font-family: 'Bowlby One SC', cursive;
+	font-size:1.2vw;
+	color:#ffce00;
+	-webkit-text-stroke-width: 0.05vw;
+    -webkit-text-stroke-color: #191342;
+    text-align:center;
+	cursor:pointer;
+}
+.log_x:hover{
+	color:#B1436D;
+}
+
+.log_tit{
+	width:100%;
+	margin-bottom:10px;
+	margin-top:-30px;
+	font-family: 'Bowlby One SC', cursive;
+	font-size:3vw;
+	color:#ffce00;
+	-webkit-text-stroke-width: 0.1vw;
+    -webkit-text-stroke-color: #191342;
+    text-align:center;
+}
+
+.log_input{
+	width:50%;
+	height:30px;
+	margin:auto;
+	text-align:center;
+	background:#CCC;
+	font-size:18px;
+	border:solid #333 2px;
+	margin-bottom:20px;
+	margin-left:100px;
+	border-radius:10px;
+}
+
+
+.log_submit{
+	border:solid 4px #191342;
+	box-shadow: 5px 5px 5px #333;
+	border-radius: 30px;
+	width:150px;
+	height:35px;
+	margin:auto;
+	font-family: 'Roboto', sans-serif;
+	font-size:19px;
+	text-align:center;
+	padding-top:2px;
+	
+	background-color:#ffce00;
+	color:#f22b8e;
+	cursor:pointer;
+	margin-left:140px;
+}
+.log_submit:hover{
+	background-color:#CCC;
+}
+.log_submit a{
+	color:#f22b8e;
+	text-decoration:none;
+}
+
+.log_forgot{
+	margin-top:10px;
+	text-align:center;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:11px;
+}

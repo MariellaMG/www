@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Unity-iPhone.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>0A70A7BA04F1CEE26932CA47DB69432F64CAA37B</string>
+				<key>dateExpires</key>
+				<string>5/25/19</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>DGGN8WY6L5.com.hyperion.pemexvirtual</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>DGGN8WY6L5</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>DGGN8WY6L5.com.hyperion.pemexvirtual</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>UnitySample.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>f50171cb-1ccd-4efc-99a2-ab56349d90c7</string>
+				<key>name</key>
+				<string>JAirAdHoc</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>DGGN8WY6L5</string>
+				<key>name</key>
+				<string>Alternativa Creativa 360 SA DE CV</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,77 @@
+@charset "UTF-8";
+/* CSS Document */
+.losproductos{
+	width:100%;
+	min-height:500px;
+	height:auto;
+	padding-bottom:30px;
+	background:url(/molcajetedomborrador3/md6fondo.jpg);
+	overflow:hidden;
+}
+
+.elproductodetalle{
+	width:500px;
+	height:500px;
+	float:left;
+	margin:31px;
+	font-family:Verdana, Geneva, sans-serif;
+}
+.elproductodetalle h1{
+	margin:24px;
+	margin-bottom:10px;
+	color: #e03e95;
+	font-family: 'Passion One', cursive;
+	font-size: 60px;
+	margin:2px;
+	margin-top:20px;
+}
+
+.elproductodetalle_txt{
+	margin:20px;
+	margin-top:0px;
+	font-size: 30px;
+	font-family: 'Passion One', cursive;
+	color: #636363;
+	margin-top:0px;
+}
+.elproductodetalle_html{
+	font-size:12px;
+	margin:20px;
+	margin-top:0px;
+}
+
+.elproducto{
+	width:500px;
+	height:500px;
+	float:left;
+	margin:31px;
+	border:solid 10px #FFFFFF;
+	overflow:hidden;
+	background-color:#CCC;
+	background-position:center;
+	background-size:110% auto;
+	border-radius:50%;
+}
+.elproducto:hover{
+	border:solid 10px #fff;
+}
+.elproducto_all{
+	width:100%;
+	height:100%;
+	padding-top:240px;
+}
+.elproducto_titulo{
+	background:#1B3459;
+	width:100%;
+	height:40px;
+	overflow:hidden;
+	padding:3px;
+	display:none;
+	text-align:center;
+	padding-top:10px;
+}
+.elproducto_titulo_a{
+	color:#FFF;
+	text-decoration:none;
+	font-family:Verdana, Geneva, sans-serif;
+}

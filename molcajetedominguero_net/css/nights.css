@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* CSS Document */
+.fondo_noche{
+	width:100%;
+	min-height:400px;
+	background-color:#111;
+	background-image:url(/noche/fondo_noche.jpg);
+	background-size:100% auto;
+}
+.noche_logo{
+	width:600px;
+	padding-top:80px;
+	margin:auto;
+}
+

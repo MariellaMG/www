@@ -1,0 +1,4 @@
+[20-Aug-2018 11:46:57 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/molcajete/public_html/shop-ticket/index.php on line 48
+[20-Aug-2018 11:47:10 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/molcajete/public_html/shop-ticket/index.php on line 49
+[20-Aug-2018 11:47:19 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/molcajete/public_html/shop-ticket/index.php on line 49
+[20-Aug-2018 11:47:56 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/molcajete/public_html/shop-ticket/index.php on line 49

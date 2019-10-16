@@ -1,0 +1,239 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	font-size:100%;
+	overflow-x: hidden;
+}
+.header{
+	width:100%;
+	background-color:#78B19B;
+	background-image:url(../design2_partes/1/dom_d1_1.jpg);
+	overflow:hidden;
+	background-size: 100% auto;
+	background-position:center;
+}
+.header1{
+	width:100%;
+	background-image:url(../design2_partes/1/dom_d1_1_b.png);
+	overflow:hidden;
+	background-size:auto 100%;
+	background-position:bottom;
+	background-repeat:repeat-x;
+}
+.header2{
+	width:100%;
+	background-image:url(../design2_partes/1/dom_d1_1_c.png);
+	overflow:hidden;
+	background-position:bottom;
+	background-repeat:no-repeat;
+}
+.aboutus{
+	border-radius: 50%;
+    behavior: url(PIE.htc); /* remove if you don't care about IE8 */
+	width:250px;
+	height:250px;
+	border:10px solid #1B3459;
+	background:#B1436D url(../images/amarillo.png);
+	color:#FFF;
+	text-align:center;
+	font-family: 'Bowlby One SC', cursive;
+	font-size:40px;
+	cursor:pointer;
+	vertical-align:middle;
+	position:absolute;
+	top:-17px;
+	left:38px;
+}
+.aboutus:hover {
+	border:10px solid #FFF;
+	background:#B1436D url(../images/rosa.png);
+}
+.aboutus div{
+	margin-top:95px;
+}
+
+.img_icon{
+}
+
+.aboutus:hover .img_icon{
+	width:85%;
+}
+
+.molcajetenig:hover .img_icon{
+	width:85%;
+}
+.contactus:hover .img_icon{
+	width:85%;
+}
+
+.contactus{
+	border-radius: 50%;
+    behavior: url(PIE.htc); /* remove if you don't care about IE8 */
+	width:250px;
+	height:250px;
+	border:10px solid #1B3459;
+	background:#B1436D url(../images/amarillo.png);
+	color:#FFF;
+	text-align:center;
+	font-family: 'Bowlby One SC', cursive;
+	font-size:32px;
+	cursor:pointer;
+	vertical-align:middle;
+	position:absolute;
+	top:-17px;
+	left:38px;
+}
+.contactus:hover {
+	border:10px solid #FFF;
+	background:#B1436D url(../images/rosa.png);
+}
+.contactus div{
+	margin-top:105px;
+}
+.molcajetenig{
+	border-radius: 50%;
+    behavior: url(PIE.htc); /* remove if you don't care about IE8 */
+	width:250px;
+	height:250px;
+	border:10px solid #1B3459;
+	background:#fce446 url(../images/amarillo.png);
+	color:#FFF;
+	text-align:center;
+	font-family: 'Bowlby One SC', cursive;
+	font-size:188%;
+	vertical-align:middle;
+	cursor:pointer;
+	line-height:30px;
+	position:absolute;
+	top:-17px;
+	left:38px;
+}
+.molcajetenig:hover {
+	border:10px solid #FFF;
+	background:#000;
+}
+.molcajetenig div{
+	margin-top:105px;
+}
+.molcajetenig div img{
+	margin:auto;
+}
+.logo{
+	width:30%;
+	position:absolute;
+	top:0px;
+	left:0px;
+	z-index:20;
+}
+
+.productos{
+	width:100%;
+	min-height:500px;
+	height:auto;
+	padding-bottom:30px;
+	background:url(../images/fondo_amarillo.jpg);
+	overflow:hidden;
+}
+.producto{
+	width:280px;
+	height:280px;
+	float:left;
+	margin:31px;
+	border:solid 5px #FFFFFF;
+	overflow:hidden;
+	background-color:#CCC;
+	background-position:center;
+	background-size:105% auto;
+	box-shadow: 5px 5px 5px #333;
+}
+.producto:hover{
+	border:solid 5px #1B3459;
+	box-shadow: 10px 10px 5px #333;
+}
+.producto_all{
+	width:100%;
+	height:100%;
+	padding-top:240px;
+}
+.producto_titulo{
+	background:#1B3459;
+	width:100%;
+	height:40px;
+	overflow:hidden;
+	padding:3px;
+	display:none;
+	text-align:center;
+	padding-top:10px;
+}
+.producto_titulo_a{
+	color:#FFF;
+	text-decoration:none;
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+.join{
+	width:100%;
+	background-image:url(../images/verde_fondo.jpg);
+	padding-bottom:40px;
+}
+
+
+.title_join {
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding-top: 4%;
+    font-size: 45px;
+    font-weight: bold;
+}
+.subt_join {
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    font-size: 23px;
+	width:550px;
+	margin:auto;
+	margin-top:55px;
+}
+.join_circulos{
+	width:570px;
+	height:320px;
+	margin:auto;
+	margin-top:30px;
+}
+.join_circulo {
+    float: left;
+    padding-top: 8%;
+    text-align: center;
+    background-color: #fce446;
+    border: 8px solid #FFF;
+    width: 230px;
+    height: 180px;
+    border-radius: 50%;
+	line-height:50px;
+	cursor:pointer;
+}
+.join_circulo:hover{
+	border: 8px solid #1B3459;
+	box-shadow: 5px 5px 5px #333;
+}
+.join_circulo:hover a{
+	color: #FFF;
+    font-size: 59px;
+}
+.join_circulo a {
+    text-decoration: none;
+    color: #FFF;
+    font-size: 55px;
+    font-family: 'Passion One', cursive;
+    font-weight: bold;
+}
+
+
+.clr{
+	clear:both;
+}

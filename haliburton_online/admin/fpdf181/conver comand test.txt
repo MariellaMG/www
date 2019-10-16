@@ -1,0 +1,1 @@
+convert -density 200 eltest.pdf groo-%02d.jpg

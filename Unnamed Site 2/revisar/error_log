@@ -1,0 +1,10 @@
+[10-Jun-2018 16:39:14 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tinker/public_html/revisar/activa.php on line 3
+[10-Jun-2018 16:39:14 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tinker/public_html/revisar/activa.php on line 8
+[10-Jun-2018 16:39:14 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tinker/public_html/revisar/index.php on line 55
+[10-Jun-2018 16:39:14 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tinker/public_html/revisar/index.php on line 66
+[10-Jun-2018 16:39:14 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/tinker/public_html/revisar/index.php on line 67
+[10-Jun-2018 16:39:14 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tinker/public_html/revisar/index.php on line 83
+[10-Jun-2018 16:39:14 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/tinker/public_html/revisar/index.php on line 84
+[10-Jun-2018 16:50:17 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tinker/public_html/revisar/suspendida.php on line 3
+[10-Jun-2018 16:50:17 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tinker/public_html/revisar/suspendida.php on line 8
+[10-Jun-2018 16:50:17 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tinker/public_html/revisar/suspendida.php on line 12

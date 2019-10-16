@@ -1,0 +1,10 @@
+[05-Sep-2014 16:10:50 America/Chicago] PHP Warning:  include(includes/data/mysql_infos.php): failed to open stream: No such file or directory in /home/dany0x01/public_html/admin/includes/index.php on line 2
+[05-Sep-2014 16:10:50 America/Chicago] PHP Warning:  include(includes/data/mysql_infos.php): failed to open stream: No such file or directory in /home/dany0x01/public_html/admin/includes/index.php on line 2
+[05-Sep-2014 16:10:50 America/Chicago] PHP Warning:  include(): Failed opening 'includes/data/mysql_infos.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/dany0x01/public_html/admin/includes/index.php on line 2
+[05-Sep-2014 16:10:50 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/dany0x01/public_html/admin/includes/index.php on line 280
+[05-Sep-2014 16:10:50 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/dany0x01/public_html/admin/includes/index.php on line 285
+[08-May-2015 21:07:51 America/Chicago] PHP Warning:  include(includes/data/mysql_infos.php): failed to open stream: No such file or directory in /home/dany0x01/public_html/admin/includes/index.php on line 2
+[08-May-2015 21:07:51 America/Chicago] PHP Warning:  include(includes/data/mysql_infos.php): failed to open stream: No such file or directory in /home/dany0x01/public_html/admin/includes/index.php on line 2
+[08-May-2015 21:07:51 America/Chicago] PHP Warning:  include(): Failed opening 'includes/data/mysql_infos.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/dany0x01/public_html/admin/includes/index.php on line 2
+[08-May-2015 21:07:51 America/Chicago] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/dany0x01/public_html/admin/includes/index.php on line 280
+[08-May-2015 21:07:51 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/dany0x01/public_html/admin/includes/index.php on line 285

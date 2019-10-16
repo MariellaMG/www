@@ -1,0 +1,70 @@
+@charset "UTF-8";
+/* CSS Document */
+.div-about-us{
+	width:100%;
+	min-height:600px;
+	background-color:#111;
+	background-image:url(../images/verde_fondo.jpg);
+	background-size:100% auto;
+	padding-top:20px;
+	padding-bottom:40px;
+}
+
+.about-logo-izq{
+	float:left;
+	width:30%;
+	height:100%;
+	display:block;
+}
+.about-cont-der{
+	float:right;
+	padding-top:30px;
+	width:65%;
+	height:100%;
+	display:block;
+}
+.about-titulo {
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+.about-cont {
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    font-size: 20px;
+	padding:30px;
+	padding-top:0px;
+}
+.about-direccion{
+	width:50%;
+	margin:auto;
+	text-align:center;
+	font-family: 'Roboto', sans-serif;
+	color:#191D4E;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.about-direccion h2{
+	width:inherit;
+	margin:auto;
+	padding:3px;
+	background:#FFF;
+	margin-top:5px;
+}
+.about-direccion h3{
+	width:250px;
+	margin:auto;
+	padding:3px;
+	background:#FFF;
+	color:#D1366E;
+	margin-top:5px;
+}
+
+.about-mapa{
+	width:60%;
+	margin:auto;
+	border:#FFF solid 3px;
+}

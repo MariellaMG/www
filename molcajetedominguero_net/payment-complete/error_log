@@ -1,0 +1,14 @@
+[10-Aug-2018 09:00:39 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home3/molcajete/public_html/payment-complete/index.php on line 196
+[10-Aug-2018 09:00:55 America/Chicago] PHP Fatal error:  Call to a member function setValue() on null in /home3/molcajete/public_html/vendor/vendor/jms/serializer/src/JMS/Serializer/GenericDeserializationVisitor.php on line 173
+[10-Aug-2018 09:01:38 America/Chicago] PHP Fatal error:  Call to a member function setValue() on null in /home3/molcajete/public_html/vendor/vendor/jms/serializer/src/JMS/Serializer/GenericDeserializationVisitor.php on line 173
+[10-Aug-2018 10:39:36 America/Chicago] PHP Fatal error:  Interface 'JMS\Serializer\GraphNavigatorInterface' not found in /home3/molcajete/public_html/vendor/vendor/jms/serializer/src/JMS/Serializer/GraphNavigator.php on line 28
+[10-Aug-2018 10:57:17 America/Chicago] PHP Fatal error:  Interface 'JMS\Serializer\GraphNavigatorInterface' not found in /home3/molcajete/public_html/vendor/vendor/jms/serializer/src/JMS/Serializer/GraphNavigator.php on line 28
+[10-Aug-2018 10:57:19 America/Chicago] PHP Fatal error:  Interface 'JMS\Serializer\GraphNavigatorInterface' not found in /home3/molcajete/public_html/vendor/vendor/jms/serializer/src/JMS/Serializer/GraphNavigator.php on line 28
+[10-Aug-2018 10:57:30 America/Chicago] PHP Fatal error:  Interface 'JMS\Serializer\GraphNavigatorInterface' not found in /home3/molcajete/public_html/vendor/vendor/jms/serializer/src/JMS/Serializer/GraphNavigator.php on line 28
+[10-Aug-2018 10:57:32 America/Chicago] PHP Fatal error:  Interface 'JMS\Serializer\GraphNavigatorInterface' not found in /home3/molcajete/public_html/vendor/vendor/jms/serializer/src/JMS/Serializer/GraphNavigator.php on line 28
+[10-Aug-2018 10:57:55 America/Chicago] PHP Fatal error:  Call to a member function getCode() on array in /home3/molcajete/public_html/payment-complete/index.php on line 206
+[10-Aug-2018 10:58:28 America/Chicago] PHP Fatal error:  Call to a member function getText() on array in /home3/molcajete/public_html/payment-complete/index.php on line 207
+[10-Aug-2018 10:58:49 America/Chicago] PHP Fatal error:  Call to a member function getResponseCode() on null in /home3/molcajete/public_html/payment-complete/index.php on line 211
+[10-Aug-2018 10:59:15 America/Chicago] PHP Fatal error:  Call to a member function getAvsResultCode() on null in /home3/molcajete/public_html/payment-complete/index.php on line 216
+[10-Aug-2018 10:59:42 America/Chicago] PHP Catchable fatal error:  Object of class net\authorize\api\contract\v1\MessagesType could not be converted to string in /home3/molcajete/public_html/payment-complete/index.php on line 237
+[10-Aug-2018 11:35:23 America/Chicago] PHP Fatal error:  Call to undefined function string() in /home3/molcajete/public_html/payment-complete/index.php on line 147

@@ -1,0 +1,1 @@
+[20-Jun-2018 17:27:39 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/tinker/public_html/actividades/index.php on line 154

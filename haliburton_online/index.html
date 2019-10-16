@@ -1,0 +1,254 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Haliburton</title>
+ <script src="js/jquery-1.10.2.js"></script>
+ <script src="js/home.js"></script>
+
+ <script src="js/menu_over.js"></script>
+ 
+<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet"> 
+<link rel="stylesheet" type="text/css" href="css/home.css">
+<link rel="stylesheet" type="text/css" href="css/mini.css">
+<link rel="stylesheet" type="text/css" href="css/menu_over.css">
+
+<style>
+#header{
+	height:48.95vw !important;
+	
+}
+</style>
+
+</head>
+
+<body>
+<div class="top">
+	<div class="logo">
+    	<a href="/">	
+        <img src="/elements/top_logo.png" height="60">
+        </a>
+    </div>
+    
+    <div class="menu">
+    	<ul>
+
+              <li><a href="contact-us.php" onmouseover="ShowMenuThree()">CONTACT</a></li>
+            <li><a href="quality.php" onmouseover="ShowMenuFour()">QUALITY</a></li>
+            <li><a href="/products.php" onmouseover="ShowMenuFive()">PRODUCTS</a></li>
+            <li><a href="/innovation.php" onmouseover="ShowMenuSix()">INNOVATION</a></li>
+            <li><a href="about-us.php" onmouseover="ShowMenuTwo()" >ABOUT US</a></li>
+            <li><a href="/" onmouseover="HideMenu()">HOME</a></li>            
+        </ul>
+    </div>
+    
+    <div class="clr"></div>
+</div>
+
+
+
+<div style="width:120px; background:#000; position:absolute; top:100px; z-index:10; " id="menu2" class="menu_over">
+    <div >
+            <ul class="menu_over_ul" style="width:120px;">
+               <li class="menu_over_li" ><a href="core-values.php">CORE VALUES</a></li>
+               <li class="menu_over_li" ><a href="our-team-new.php">OUR TEAM</a></li>
+               <li class="menu_over_li" ><a href="our-facility.php">OUR FACILITY</a></li>
+               <li class="menu_over_li" ><a href="sustainability.php">SUSTAINABILITY</a></li>
+            </ul>
+    </div>        
+</div>
+<div style="width:100px; background:#000; position:absolute; top:100px; z-index:10;  " id="menu3" class="menu_over">
+        <ul class="menu_over_ul" >
+        	<li class="menu_over_li"><a href="contact-us.php" >CONTACT US</a></li>
+           <li class="menu_over_li"><a href="careers.php" >CAREERS</a></li>
+           <li class="menu_over_li"><a href="brochures.php" >BROCHURES</a></li>
+        </ul>
+</div>
+<div style="width:130px; background:#000; position:absolute; top:100px; z-index:13;  " id="menu4">
+      <ul class="menu_over_ul" >
+           <li class="menu_over_li"><a href="quality-assurance.php">QUALITY ASSURANCE</a></li>
+           <li class="menu_over_li"><a href="regulatory.php">REGULATORY COMPLIANCE</a></li>
+           <li class="menu_over_li"><a href="on-site-microbiology.php">ON-SITE <br /> MICRO LAB</a></li>
+           <li class="menu_over_li"><a href="on-site-physical-chemistry.php">ON-SITE PHYSICAL CHEMISTRY LAB</a></li>
+  </ul>
+</div>
+<div style="width:280px; background:#000; position:absolute; top:100px; z-index:14;  " id="menu5">
+  <ul class="menu_over_ul" style="width:280px;">
+    <li class="menu_over_li_productos" style="width:280px;" ><a href="fire_roasted_vegetables_and_fruits.php">FIRE ROASTED VEGETABLES AND FRUITS</a></li>
+<li class="menu_over_li_productos" style="width:280px;" ><a href="pickled_vegetable_and_fruits.php">PICKLED VEGETABLE AND FRUITS</a></li>
+<li class="menu_over_li_productos" style="width:280px;" ><a href="kettle_cooked_sauces.php">KETTLE  COOKED SAUCES</a></li>
+<li class="menu_over_li_productos" style="width:280px;" ><a href="reduction_sauces.php">REDUCTION SAUCES</a></li>
+<li class="menu_over_li_productos" style="width:280px;" ><a href="authentic_salsas.php">AUTHENTIC SALSAS</a></li>
+<li class="menu_over_li_productos" style="width:280px;" ><a href="artisan_soups.php">ARTISAN SOUPS</a></li>
+<li class="menu_over_li_productos" style="width:280px;" ><a href="condiments_dips_and_spreads.php">CONDIMENTS, DIPS AND SPREADS</a></li>
+<li class="menu_over_li_productos" style="width:280px;" ><a href="desert_sauces.php">DESSERT SAUCES</a></li>
+<li class="menu_over_li_productos" style="width:280px;" ><a href="craft_beverage_mixers.php">CRAFT BEVERAGE MIXERS</a></li>
+<li class="menu_over_li_productos" style="width:280px;" ><a href="iqf_ancient_grains.php">IQF ANCIENT GRAINS</a></li>
+<li class="menu_over_li_productos" style="width:280px;" ><a href="iqf_beans.php">IQF BEANS</a></li>  </ul>
+</div>
+
+
+
+<div style="width:150px; background:#000; position:absolute; top:100px; z-index:15;  " id="menu6">
+      <ul class="menu_over_ul" >
+           <li class="menu_over_li"><a href="culinary.php">CULINARY</a></li>
+           <li class="menu_over_li"><a href="research.php">RESEARCH & DEVELOPMENT</a></li>
+           <li class="menu_over_li"><a href="commercialization.php">COMMERCIALIZATION</a></li>
+  </ul>
+</div>
+
+<div class="header" id="header" onclick="OcultarMenuDos();" style="background-image:url(images2/Homepage_header_2.jpg) !important;">
+	<div class="white" id="white">
+    	<div class="white_int">
+    		<h1 style="font-size:3.0vw;">FOOD FOR THE FUTURE</h1>
+            <h2 style="font-size:1.3vw;">Premier culinary innovation, products and menu solutions for<br />
+ the world’s most recognized restaurants and food brands.
+</h2>
+
+
+
+
+    	</div>	
+    </div>
+</div>
+
+<div class="midmenu" >
+	<div class="midmenu_int">
+    	<div class="midmenu_div"><a href="/products.php">PRODUCTS</a></div>
+        <div class="midmenu_div"><a href="/culinary.php">CULINARY</a></div>
+        <div class="midmenu_div"><a href="our-team-new.php">OUR TEAM</a></div>
+        <div class="midmenu_div"><a href="our-facility.php">OUR FACILITY</a></div>
+        <div class="clr"></div>
+    </div>
+</div>
+
+
+<div>
+    <div class="cc1" id="cc1" onmouseover="ShowCC('cc1','cc2');" onmouseout="ShowCC_out('cc1','cc2');" >
+        <a href="about-us.php" >
+            <div id="cc2" class="cc2">
+                <div class="cc3" id="cc3" >
+                ABOUT US
+                </div>
+            </div>   
+        </a>
+    </div>
+    
+    
+    <div class="dd1" id="dd1" onmouseover="ShowCC('dd1','dd2');" onmouseout="ShowCC_out('dd1','dd2');" >
+        <a href="innovation.php" >
+            <div id="dd2" class="cc2">
+                <div class="cc3" id="dd3" >
+                INNOVATION
+                </div>
+            </div>   
+        </a>
+    </div>
+    
+    <div class="ee1" id="ee1" onmouseover="ShowCC('ee1','ee2');" onmouseout="ShowCC_out('ee1','ee2');" style="background-image:url(images_home/Homepage_products_22.jpg);" >
+        <a href="products.php" >
+            <div id="ee2" class="cc2">
+                <div class="cc3" id="ee3" >
+                PRODUCTS
+                </div>
+            </div>   
+        </a>
+    </div>
+    
+    <div class="clr"></div>
+    
+</div>
+
+
+
+<div>
+
+  <div class="ff1" id="ff1" onmouseover="ShowCC('ff1','ff2');" onmouseout="ShowCC_out('ff1','ff2');" >
+        <a href="quality.php" >
+            <div id="ff2" class="cc2">
+                <div class="cc3" id="ff3" >
+                QUALITY
+                </div>
+            </div>   
+        </a>
+    </div>
+    
+    
+  <div class="gg1" id="gg1" onmouseover="ShowCC('gg1','gg2');" onmouseout="ShowCC_out('gg1','gg2');" >
+        <a href="contact-us.php" >
+            <div id="gg2" class="cc2">
+                <div class="cc3" id="gg3" >
+                CONTACT US
+                </div>
+            </div>   
+        </a>
+    </div>
+    
+    <div class="clr"></div>
+
+</div>
+
+
+
+
+<div class="footer">
+
+	<div class="footer_tree">
+    	<div class="footer_icono">
+   	    	<img src="/elements/footer_logo.png" width="111"  />
+        </div>
+        
+       <div class="footer_ico">
+        	<div class="footer_info"> 
+              <strong>NEED INFO?</strong><br />
+              Contact us with questions about<br />
+              products or services.<br /><br />
+              909-428-8520 &nbsp; <a href="mailto:info@haliburton.net" style="color:#ffffff; text-decoration:none;">| &nbsp; info@haliburton.net</a>
+</div>
+        </div>
+        
+        <div class="clr"></div>
+        
+    </div>
+    
+    <div class="footer_tree">
+        <div class="footer_info">
+          <strong>NEED A CHALLENGE?</strong><br />
+          If you want to join a team that embraces growth and continuous<br />
+improvement, we want to hear from you.<br /><br />
+
+careers@haliburton.net
+        </div>
+    </div>
+    
+    <div class="footer_tree">
+    	<div class="footer_info">
+          <strong>FOLLOW US ON SOCIAL MEDIA</strong><br />
+          
+          <img src="elements/social.png" width="130" usemap="#Map" border="0"  />
+          <map name="Map" id="Map">
+            <area shape="rect" coords="9,6,28,27" href="https://www.facebook.com/HaliburtonInternationalFoods" target="_blank" />
+            <area shape="rect" coords="35,6,60,27" href="https://twitter.com/Haliburtonfoods" target="_blank" />
+            <area shape="rect" coords="69,7,91,28" href="https://www.instagram.com/Haliburtonfoods/" target="_blank" />
+            <area shape="rect" coords="101,6,124,29" href="https://www.linkedin.com/company/haliburton-international-foods/" target="_blank" />
+          </map>
+<br />
+          
+          ©2018 Haliburton International Foods, Inc.
+         
+        </div>
+    </div>
+    
+    <div class="clr"></div>
+
+</div>
+
+
+
+<br /><br /><br />
+
+</body>
+
+</html>

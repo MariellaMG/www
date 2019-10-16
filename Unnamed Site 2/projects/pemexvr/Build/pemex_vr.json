@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project",
+"dataUrl": "pemex_vr.data.unityweb",
+"asmCodeUrl": "pemex_vr.asm.code.unityweb",
+"asmMemoryUrl": "pemex_vr.asm.memory.unityweb",
+"asmFrameworkUrl": "pemex_vr.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

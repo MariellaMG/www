@@ -1,0 +1,50 @@
+
+App Thinning Size Report for All Variants of Unity-iPhone
+
+Variant: Unity-iPhone-0195ABFE-E411-425D-ABA2-DB6AEAB09C79.ipa
+Supported variant descriptors: [device: iPhone9,7, os-version: 10], [device: iPhone9,3, os-version: 12], [device: iPhone8,4, os-version: 12], [device: iPhone9,1, os-version: 12], [device: iPhone6,2, os-version: 12], [device: iPhone10,4, os-version: 11], [device: iPhone10,1, os-version: 12], [device: iPod7,1, os-version: 9], [device: iPhone6,1, os-version: 9], [device: iPhone8,4, os-version: 9], [device: iPhone6,2, os-version: 9], [device: iPhone9,3, os-version: 10], [device: iPhone7,2, os-version: 12], [device: iPhone10,4, os-version: 12], [device: iPhone8,1, os-version: 9], [device: iPhone6,1, os-version: 12], [device: iPhone9,9, os-version: 10], [device: iPhone9,8, os-version: 10], [device: iPhone9,1, os-version: 10], [device: iPod7,1, os-version: 12], [device: iPhone7,2, os-version: 9], [device: iPhone8,1, os-version: 12], and [device: iPhone10,1, os-version: 11]
+App + On Demand Resources size: 84.1 MB compressed, 156 MB uncompressed
+App size: 84.1 MB compressed, 156 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Unity-iPhone-26F1B816-842D-4868-8F04-EC2EA7C4806E.ipa
+Supported variant descriptors: [device: iPhone9,4, os-version: 12], [device: iPhone10,5, os-version: 12], [device: iPhone10,3, os-version: 11], [device: iPhone9,4, os-version: 10], [device: iPhone10,6, os-version: 12], [device: iPhone10,3, os-version: 12], [device: iPhone10,5, os-version: 11], [device: iPhone10,6, os-version: 11], [device: iPhone10,2, os-version: 12], [device: iPhone8,2, os-version: 12], [device: iPhone10,2, os-version: 11], [device: iPhone7,1, os-version: 9], [device: iPhone7,1, os-version: 12], [device: iPhone9,2, os-version: 12], [device: iPhone8,2, os-version: 9], and [device: iPhone9,2, os-version: 10]
+App + On Demand Resources size: 84.2 MB compressed, 156.1 MB uncompressed
+App size: 84.2 MB compressed, 156.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Unity-iPhone-79F536BC-6B04-4240-8D72-169541B7828A.ipa
+Supported variant descriptors: [device: iPad2,6, os-version: 9], [device: iPad2,2, os-version: 9], [device: iPad2,1, os-version: 9], [device: iPad2,4, os-version: 9], [device: iPad2,3, os-version: 9], [device: iPad2,5, os-version: 9], and [device: iPad2,7, os-version: 9]
+App + On Demand Resources size: 84.9 MB compressed, 154.3 MB uncompressed
+App size: 84.9 MB compressed, 154.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Unity-iPhone-7CF43060-C197-47D6-B6C5-7E0A14CB3020.ipa
+Supported variant descriptors: [device: iPad3,3, os-version: 9], [device: iPad3,2, os-version: 9], [device: iPad3,4, os-version: 9], [device: iPad3,6, os-version: 9], [device: iPad3,5, os-version: 9], and [device: iPad3,1, os-version: 9]
+App + On Demand Resources size: 84.9 MB compressed, 154.3 MB uncompressed
+App size: 84.9 MB compressed, 154.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Unity-iPhone-80F298B8-D66D-46B8-A190-4B077D692C79.ipa
+Supported variant descriptors: [device: iPhone5,2, os-version: 9], [device: iPhone5,3, os-version: 9], [device: iPod5,1, os-version: 9], [device: iPhone5,4, os-version: 9], [device: iPhone4,1, os-version: 9], and [device: iPhone5,1, os-version: 9]
+App + On Demand Resources size: 84.9 MB compressed, 154.3 MB uncompressed
+App size: 84.9 MB compressed, 154.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Unity-iPhone-91604E90-B789-4072-BE1B-B75E90B95082.ipa
+Supported variant descriptors: [device: iPad5,3, os-version: 9], [device: iPad7,4, os-version: 12], [device: iPad6,3, os-version: 12], [device: iPad6,8, os-version: 12], [device: iPad4,7, os-version: 12], [device: iPad4,9, os-version: 12], [device: iPad4,9, os-version: 9], [device: iPad7,6, os-version: 11], [device: iPad7,1, os-version: 10], [device: iPad7,4, os-version: 10], [device: iPad5,1, os-version: 12], [device: iPad4,7, os-version: 9], [device: iPad6,7, os-version: 12], [device: iPad5,2, os-version: 12], [device: iPad4,3, os-version: 12], [device: iPad4,5, os-version: 9], [device: iPad6,11, os-version: 10], [device: iPad4,5, os-version: 12], [device: iPad4,8, os-version: 9], [device: iPad7,2, os-version: 10], [device: iPad6,7, os-version: 9], [device: iPad6,3, os-version: 9], [device: iPad6,8, os-version: 9], [device: iPad7,5, os-version: 12], [device: iPad4,3, os-version: 9], [device: iPad7,6, os-version: 12], [device: iPad4,2, os-version: 12], [device: iPad7,5, os-version: 11], [device: iPad6,12, os-version: 12], [device: iPad7,3, os-version: 10], [device: iPad4,4, os-version: 9], [device: iPad6,4, os-version: 9], [device: iPad4,2, os-version: 9], [device: iPad4,1, os-version: 12], [device: iPad7,1, os-version: 12], [device: iPad6,12, os-version: 10], [device: iPad5,4, os-version: 9], [device: iPad5,3, os-version: 12], [device: iPad7,3, os-version: 12], [device: iPad4,6, os-version: 9], [device: iPad5,4, os-version: 12], [device: iPad4,1, os-version: 9], [device: iPad6,11, os-version: 12], [device: iPad5,2, os-version: 9], [device: iPad7,2, os-version: 12], [device: iPad6,4, os-version: 12], [device: iPad4,4, os-version: 12], [device: iPad4,6, os-version: 12], [device: iPad4,8, os-version: 12], and [device: iPad5,1, os-version: 9]
+App + On Demand Resources size: 84.1 MB compressed, 156 MB uncompressed
+App size: 84.1 MB compressed, 156 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Unity-iPhone.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 91.8 MB compressed, 171.3 MB uncompressed
+App size: 91.8 MB compressed, 171.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed

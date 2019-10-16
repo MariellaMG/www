@@ -1,0 +1,4 @@
+[13-Jun-2018 11:47:17 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tinker/public_html/mision/index.php on line 96
+[13-Jun-2018 11:47:33 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tinker/public_html/mision/index.php on line 96
+[13-Jun-2018 11:47:59 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/tinker/public_html/mision/index.php on line 96
+[13-Jun-2018 11:48:02 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tinker/public_html/mision/index.php on line 96

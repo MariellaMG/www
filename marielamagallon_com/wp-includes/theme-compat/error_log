@@ -1,0 +1,2 @@
+[06-Jun-2018 12:01:26 America/Chicago] PHP Fatal error:  Call to undefined function post_class() in /home/mariela/public_html/wp-includes/theme-compat/embed-content.php on line 13
+[06-Jun-2018 12:01:35 America/Chicago] PHP Fatal error:  Call to undefined function post_class() in /home/mariela/public_html/wp-includes/theme-compat/embed-content.php on line 13
