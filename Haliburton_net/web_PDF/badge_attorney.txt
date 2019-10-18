@@ -1,4 +1,0 @@
-  <div id="super_lawyers_badge" style="margin:0; padding:0; position:relative; outline:none; border: none;"><a href="https://www.superlawyers.com/redir?r=https://profiles.superlawyers.com/california-southern/west-hollywood/lawyer/matthew-taggart/fffc6531-9bdf-4c66-bae8-17aefc58ed6b.html&amp;c=email_Large_badge&amp;i=fffc6531-9bdf-4c66-bae8-17aefc58ed6b" alt="Visit the official website of Super Lawyers" title="Visit the official website of Super Lawyers" style="display:block; text-decoration:none; margin:0; padding:0; outline:none; border: none;"><img src="https://d22sy6g45ur8ee.cloudfront.net/shared/badge/lawyer/super_lawyers_badge/large_orange.png" alt="Rated by Super Lawyers" title="Rated by Super Lawyers" />&#160;</a></div>
-
-
-
